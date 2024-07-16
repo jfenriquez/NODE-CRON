@@ -1,0 +1,3002 @@
+[
+  {
+    "ID":1,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Dormido o no hambriento o no, cansado o no, siempre se puede hacer algo cuando se sabe que no queda m\u00e1s remedio que hacerlo.",
+    "AUTOR ":"George Bernard Shaw Novelista, cr\u00edtico y dramaturgo irland\u00e9s (1856-1950)"
+  },
+  {
+    "ID":2,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Pon tus palabras en acci\u00f3n, y no permitas que tu lengua diga torpezas.",
+    "AUTOR ":"Ralph Waldo Emerson Fil\u00f3sofo y ensayista estadounidense (1803-1882)"
+  },
+  {
+    "ID":3,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n humana es la que da vida al planeta",
+    "AUTOR ":"Jos\u00e9 Vasconcelos Fil\u00f3sofo, pol\u00edtico y escritor mexicano (1882-1959)"
+  },
+  {
+    "ID":4,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Es la acci\u00f3n la que demuestra la vida y es tambi\u00e9n la acci\u00f3n la que demuestra la voluntad.",
+    "AUTOR ":"Eliphas L\u00e9vi (Alphonse Louis Constant) Escritor franc\u00e9s (1816-1875)"
+  },
+  {
+    "ID":5,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El pensamiento es la floraci\u00f3n; el lenguaje, el capullo; la acci\u00f3n, el fruto. ",
+    "AUTOR ":"Ralph Waldo Emerson Fil\u00f3sofo y ensayista estadounidense (1803-1882)"
+  },
+  {
+    "ID":6,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n es s\u00f3lo el pensamiento condensado, concreto ya, oscuro, inconsistente.",
+    "AUTOR ":"Henri-Fr\u00e9d\u00e9ric Amiel Escritor suizo de lengua francesa (1821-1881)"
+  },
+  {
+    "ID":7,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"No te empe\u00f1es en regular tu acci\u00f3n por tu pensamiento; deja m\u00e1s bien que aqu\u00e9lla te forme, informe, deforme y transforme.",
+    "AUTOR ":"Miguel de Unamuno y Jugo Fil\u00f3sofo y escritor espa\u00f1ol (1864-1936)"
+  },
+  {
+    "ID":8,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Raramente errara quien contribuyera las acciones extremas a vanidad; las medianas, a costumbres, y las peque\u00f1as, a temor.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche Fil\u00f3sofo y poeta alem\u00e1n (1844-1900)"
+  },
+  {
+    "ID":9,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"No hay acci\u00f3n inocente; para realizar algo es indispensable da\u00f1ar o destruir.",
+    "AUTOR ":"Anatole France (Anatole Thibault) Escritor franc\u00e9s (1844-1924)"
+  },
+  {
+    "ID":10,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Hay quien porque golpea la pared con un martillo, se cree que clava clavos.",
+    "AUTOR ":"Johann Wolfgang von Goethe Escritor y poeta alem\u00e1n (1749-1832)"
+  },
+  {
+    "ID":11,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Escrito est\u00e1 que el fin del hombre es la acci\u00f3n y no el pensamiento.",
+    "AUTOR ":"Alexis Carrel Cirujano y fisi\u00f3logo estadounidense (1873-1944)"
+  },
+  {
+    "ID":12,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Que cada uno de tus actos, palabras y pensamientos sean los de un hombre que, acaso en ese instante, haya de abandonar la vida.",
+    "AUTOR ":"Marco Aurelio Antonino Emperador y fil\u00f3sofo romano (121-180)"
+  },
+  {
+    "ID":13,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"pon la \u00faltima en uno de tus proyectos.",
+    "AUTOR ":"Jos\u00e9 Mar\u00eda Escriv\u00e1 de Balaguer Sacerdote espa\u00f1ol (1902-1975)"
+  },
+  {
+    "ID":14,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Nuestras acciones obran sobre nosotros tanto como nosotros obramos sobre ellas.",
+    "AUTOR ":"George Eliot (Mary Ann Evans) Escritora inglesa (1819-1880)"
+  },
+  {
+    "ID":15,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"A menudo, en nuestros motivos de acci\u00f3n hay uno m\u00e1s poderoso que los dem\u00e1s: es el que no se dice.",
+    "AUTOR ":"Jean-Lucien Arr\u00e9at Escritor y fil\u00f3sofo franc\u00e9s (1841-1922)"
+  },
+  {
+    "ID":16,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Fuertes razones hacen fuertes acciones.",
+    "AUTOR ":"William Shakespeare Dramaturgo y poeta ingl\u00e9s (1564-1616)"
+  },
+  {
+    "ID":17,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Nadie es mejor que otro, si no hace m\u00e1s que otro.",
+    "AUTOR ":"Ramiro de Maeztu Ensayista y pol\u00edtico espa\u00f1ol (1875-1936)"
+  },
+  {
+    "ID":18,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n nunca trae siempre felicidad; pero nunca hay felicidad sin acci\u00f3n.",
+    "AUTOR ":"Benjamin Disraeli Pol\u00edtico y novelista ingl\u00e9s (1804-1881)"
+  },
+  {
+    "ID":19,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Si logras mostrarle a una persona lo malo que ella est\u00e1 haciendo, entonces procura hacerlo t\u00fa bien.",
+    "AUTOR ":"Henry David Thoreau Escritor estadounidense (1817-1862)"
+  },
+  {
+    "ID":20,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Los cielos nunca ayudan al hombre que no quiere actuar.",
+    "AUTOR ":"S\u00f3focles de Colona Poeta tr\u00e1gico griego (496-406 a. C.)"
+  },
+  {
+    "ID":21,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Las esperanzas interminables tienen un elemento debilitador que s\u00f3lo la acci\u00f3n vence.",
+    "AUTOR ":"Alexandr Vasilievich Suvarov Militar ruso (1729-1800)"
+  },
+  {
+    "ID":22,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Nunca se cierran tanto los caminos que no quede lugar para una acci\u00f3n honesta.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca Fil\u00f3sofo latino (4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":23,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Entrar en el mundo de la acci\u00f3n es entrar en el mundo de los l\u00edmites.",
+    "AUTOR ":"Gilbert Keith Chesterton Escritor ingl\u00e9s (1874-1936)"
+  },
+  {
+    "ID":24,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La mejor acci\u00f3n es la que procura la mayor felicidad al mayor n\u00famero.",
+    "AUTOR ":"John Hutchison Militar y pol\u00edtico ingl\u00e9s (1615-1664)"
+  },
+  {
+    "ID":25,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El pensamiento precede a la acci\u00f3n como el rel\u00e1mpago precede al trueno. ",
+    "AUTOR ":"Henrich Heine Poeta y dramaturgo alem\u00e1n (1797-1856)"
+  },
+  {
+    "ID":26,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n es el fruto propio del conocimiento.",
+    "AUTOR ":"Thomas Fuller Cl\u00e9rigo y escritor ingl\u00e9s (1608-1661)"
+  },
+  {
+    "ID":27,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Vale m\u00e1s actuar exponi\u00e9ndose a arrepentirse de ello que arrepentirse de no haber hecho nada.",
+    "AUTOR ":"Giovanni Boccaccio Escritor florentino (1313-1375)"
+  },
+  {
+    "ID":28,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El hombre que difiere la acci\u00f3n, siempre estar\u00e1 luchando contra su propia desgracia.",
+    "AUTOR ":"Hes\u00edodo de Ascra Poeta griego (Siglo VIII a. C.)"
+  },
+  {
+    "ID":29,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El gran objetivo de la vida no es el conocimiento, sino la acci\u00f3n.",
+    "AUTOR ":"Thomas Henry Huxley Bi\u00f3logo ingl\u00e9s (1825-1895)"
+  },
+  {
+    "ID":30,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Tanto hay que hacer y tan poco hecho.",
+    "AUTOR ":"Cecil John Rhodes Pol\u00edtico ingl\u00e9s (1853-1902)"
+  },
+  {
+    "ID":31,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"No es un hombre m\u00e1s que otro, si no hace m\u00e1s que otro.",
+    "AUTOR ":" Miguel de Cevantes Saavedra Escritor espa\u00f1ol"
+  },
+  {
+    "ID":32,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Vana es y peligrosa toda obra humana que no comienza en el cielo.",
+    "AUTOR ":"Metastasio (Pietro Trapassi) Poeta italiano "
+  },
+  {
+    "ID":33,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El hombre que pretende obrar guiado exclusivamente por la raz\u00f3n est\u00e1 condenado a obrar muy raramente.",
+    "AUTOR ":"Gustave Lebon Soci\u00f3logo franc\u00e9s (1841-1931)"
+  },
+  {
+    "ID":34,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"En el molde de nuestras acciones es donde se ha forjado la inteligencia",
+    "AUTOR ":"Henri Bergson Fil\u00f3sofo franc\u00e9s (1859-1941)"
+  },
+  {
+    "ID":35,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Piensa como un hombre de acci\u00f3n y act\u00faa como un hombre de pensamiento.",
+    "AUTOR ":"Henri Bergson Fil\u00f3sofo franc\u00e9s (1859-1941)"
+  },
+  {
+    "ID":36,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Lo que me queda de vida no quiero vivirlo en vano.",
+    "AUTOR ":"Joseph Addison  Escritor y pol\u00edtico ingl\u00e9s"
+  },
+  {
+    "ID":37,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La especulaci\u00f3n es un lujo mientras que la acci\u00f3n es una necesidad.",
+    "AUTOR ":"Henri Berson Fil\u00f3sofo franc\u00e9s (1859-1941)"
+  },
+  {
+    "ID":38,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Pide consejo antes de comenzar; cuando est\u00e9s decidido, act\u00faa prontamente.",
+    "AUTOR ":" Cayo Crispo Salustio Historiador romano"
+  },
+  {
+    "ID":39,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n es el fruto del propio conocimiento. ",
+    "AUTOR ":" Thomas Fuller Cl\u00e9rigo y escritor ingl\u00e9s"
+  },
+  {
+    "ID":40,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Haz todo bien y con rectitud, no importa que el mundo se desmorone.",
+    "AUTOR ":"George Herbert Poeta ingl\u00e9s (1593-1633)"
+  },
+  {
+    "ID":41,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n sin cordura es siempre desastrosa. ",
+    "AUTOR ":"Lin Yutang Escritor chino (1895-1976)"
+  },
+  {
+    "ID":42,
+    "CATEGORIA":"ACTITUD",
+    "FRASE":"El descubrimiento m\u00e1s grande de mi generaci\u00f3n es que un ser humano puede cambiar de vida cambiando de actitud mental.",
+    "AUTOR ":"William James Fil\u00f3sofo estadounidense (1842-1910)"
+  },
+  {
+    "ID":43,
+    "CATEGORIA":"ACTITUD",
+    "FRASE":"Las actitudes son m\u00e1s importantes que las aptitudes.",
+    "AUTOR ":"Wiston Churchill Pol\u00edtico ingl\u00e9s (1874-1965)"
+  },
+  {
+    "ID":44,
+    "CATEGORIA":"ACTITUD",
+    "FRASE":"Si no est\u00e1 en tus manos cambiar una situaci\u00f3n que te produce dolor, siempre podr\u00e1s escoger la actitud son la que afrontes ese sufrimiento.",
+    "AUTOR ":"V\u00edctor Frank Escritor austriaco "
+  },
+  {
+    "ID":45,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"S\u00f3lo la actividad orientada hacia un determinado fin hace soportable la vida.",
+    "AUTOR ":"Johann Christoph Friedrich von Schiller Escritor e historiador alem\u00e1n"
+  },
+  {
+    "ID":46,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Al hombre activo le importa hacer lo que es justo; que luego se haga o no justicia, no es problema suyo.",
+    "AUTOR ":"Johann Wolfgang von Goethe Escritor y poeta alem\u00e1n (1749-1832)"
+  },
+  {
+    "ID":47,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Toda actividad humana transcurre dentro de la sociedad, sin que nadie pueda sustraerse a su influjo.",
+    "AUTOR ":"Georg Simmel Fil\u00f3sofo y escritor alem\u00e1n (1858-1918)"
+  },
+  {
+    "ID":48,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Deja tu afici\u00f3n a las primeras piedras, y pon la \u00faltima en uno solo de tus proyectos.",
+    "AUTOR ":"Jos\u00e9 Mar\u00eda Escriv\u00e1 de Balaguer Sacerdote espa\u00f1ol "
+  },
+  {
+    "ID":49,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Nunca mires para atr\u00e1s, siempre para adelante, pues cuando la suerte te acompa\u00f1e, nada existir\u00e1 que te sea imposible.",
+    "AUTOR ":"Charles Lamb Escritor y poeta ingl\u00e9s (1775-1834)"
+  },
+  {
+    "ID":50,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"No digas nunca \u00a1Si supiera!; porque si supieras, \u00bfqu\u00e9 har\u00edas? Act\u00faa de una vez como lo har\u00edas en tal caso y as\u00ed te sentir\u00e1s siempre seguro.",
+    "AUTOR ":"Tom\u00e1s de Kempis  (Thomas Hemerken de Kempen)"
+  },
+  {
+    "ID":51,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Admiraci\u00f3n y familiaridad son enemigos.  ",
+    "AUTOR ":"George Sand (Amandine Aurore Lucie Dupin) Novelista francesa (1804-1876)"
+  },
+  {
+    "ID":52,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Admiraci\u00f3n: forma amable de reconocer que el otro se nos parece.",
+    "AUTOR ":"Ambrose Bierce Escritor y periodista estadounidense (1842-1914)"
+  },
+  {
+    "ID":53,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"olvidan sin poder remplazarlas con las ajenas.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche Fil\u00f3sofo y poeta alem\u00e1n (1844-1900)"
+  },
+  {
+    "ID":54,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Me parec\u00eda que la Tierra no hubiera sido habitable, si no hubiese tenido a nadie a quien admirar.",
+    "AUTOR ":"Simone de Beauvoir Novelista y ensayista francesa (1908-1986)"
+  },
+  {
+    "ID":55,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La admiraci\u00f3n es amor congelado.",
+    "AUTOR ":"Fran\u00e7oise Sagan (Fran\u00e7oise Quoirez) Escritora francesa -1935"
+  },
+  {
+    "ID":56,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Admirar, en principio, es el solo camino de imitar sin perder originalidad.",
+    "AUTOR ":"Samuel Taylor Coleridge Poeta y fil\u00f3sofo ingl\u00e9s (1772-1834)"
+  },
+  {
+    "ID":57,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Amamos siempre a los que nos admiran, pero no siempre a los que admiramos.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld Escritor franc\u00e9s (1613-1680)"
+  },
+  {
+    "ID":58,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Nada hay tan grande o admirable que, poco a poco, no dejen todos de ir admirando.",
+    "AUTOR ":"Marco Anneo Lucano Poeta e historiador latino (39-65)"
+  },
+  {
+    "ID":59,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La distancia es un gran inspirador de admiraciones.",
+    "AUTOR ":"Denis Diderot Fil\u00f3sofo y escritor franc\u00e9s (1713-1784)"
+  },
+  {
+    "ID":60,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La ambici\u00f3n es la llave que abre las puertas a la inquietud, y la ac\u00e9mila que nos trae las contrariedades.",
+    "AUTOR ":"Abu Beker el-Zobeid\u00ed Poeta y fil\u00f3sofo hispano\u00e1rabe "
+  },
+  {
+    "ID":61,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Haz de manera que seas t\u00fa el admirado y no lo que te pertenece.",
+    "AUTOR ":"D\u00e9cimo Junio Juvenal Poeta sat\u00edrico romano (55-135)"
+  },
+  {
+    "ID":62,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Quien de buena fe admira el m\u00e9rito ajeno, no puede dejar de tener alguno.",
+    "AUTOR ":"Stephen Crane Escritor estadounidense (1871-1900)"
+  },
+  {
+    "ID":63,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Asusta pensar que acaso las admiraciones m\u00e1s sinceras que tenemos son las de las personas que no nos han comprendido.",
+    "AUTOR ":"Benito P\u00e9rez Gald\u00f3s Escritor espa\u00f1ol (1843-1920)"
+  },
+  {
+    "ID":64,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Cuando hacemos una reverencia profunda a alguien, damos siempre la espalda a otro.",
+    "AUTOR ":"Ferdinando Galiani Escritor italiano (1728-1787)"
+  },
+  {
+    "ID":65,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La admiraci\u00f3n es hija de la ignorancia y madre de la ciencia.",
+    "AUTOR ":"Metastasio (Pietro Trapassi) Poeta italiano "
+  },
+  {
+    "ID":66,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Un hombre no puede ser admirado sin ser cre\u00eddo.",
+    "AUTOR ":"Jean Cocteau Escritor franc\u00e9s (1891-1963)"
+  },
+  {
+    "ID":67,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Es m\u00e1s dif\u00edcil hacer durar la admiraci\u00f3n que provocarla.",
+    "AUTOR ":" Joseph Sanial-Dubay Escritor franc\u00e9s"
+  },
+  {
+    "ID":68,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Los que saben mucho se admiran de pocas cosas y los que no saben nada se admiran de todo.",
+    "AUTOR ":" Lucio Anneo S\u00e9neca Fil\u00f3sofo latino"
+  },
+  {
+    "ID":69,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"El hombre que no admira nada, que no sabe admirar, es como unos lentes sin ojos detr\u00e1s.",
+    "AUTOR ":"Thomas Carlyle Escritor escoc\u00e9s "
+  },
+  {
+    "ID":70,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"de los bufones de todos los tiranos.",
+    "AUTOR ":"Henri-Fr\u00e9d\u00e9ric Amiel Escritor suizo de lengua francesa (1821-1881)"
+  },
+  {
+    "ID":71,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"La adulaci\u00f3n es el veneno m\u00e1s activo y el que los hombres toman con m\u00e1s facilidad, por prevenidos que se encuentren.",
+    "AUTOR ":" Vicente Riva Palacio Escritor, militar y periodista mexicano"
+  },
+  {
+    "ID":72,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Est\u00e1 perdido el que considera la adulaci\u00f3n como un homenaje al que tiene derecho.",
+    "AUTOR ":"Conde Feodor Vasilievich Rostopchin General y pol\u00edtico ruso"
+  },
+  {
+    "ID":73,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Hombre en el cual hace mella la adulaci\u00f3n, es hombre desarmado. ",
+    "AUTOR ":"Arturo Graf Escritor italiano nacido en Grecia (1848-1913)"
+  },
+  {
+    "ID":74,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Si no nos adul\u00e1ramos jam\u00e1s mutuamente, la vida ser\u00eda menos placentera.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld Escritor franc\u00e9s (1613-1680)"
+  },
+  {
+    "ID":75,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"A veces creemos odiar la adulaci\u00f3n y lo que odiamos es la manera de adular.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld Escritor franc\u00e9s (1613-1680)"
+  },
+  {
+    "ID":76,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"La adulaci\u00f3n no hace da\u00f1o\u2026 siempre que no la anheles.",
+    "AUTOR ":"Adlai Ewing Stevenson  Abogado y pol\u00edtico estadounidense"
+  },
+  {
+    "ID":77,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"El hombre es un animal que se alimenta de adulaciones.",
+    "AUTOR ":"William Hazlitt Ensayista y cr\u00edtico ingl\u00e9s (1778-1830)"
+  },
+  {
+    "ID":78,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Engullimos de un sorbo la mentira que nos adula, y debemos gota a gota la verdad que nos amaga.",
+    "AUTOR ":"Denis Diderot Fil\u00f3sofo y escritor franc\u00e9s (1713-1784)"
+  },
+  {
+    "ID":79,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Para quien ama la lisonja, es enemigo el que no es adulador.",
+    "AUTOR ":"Benito Jer\u00f3nimo Feij\u00f3o y Montenegro Escritor espa\u00f1ol"
+  },
+  {
+    "ID":80,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Los aduladores tienen apariencia de amigos, como los lobos tienen la apariencia de perros.",
+    "AUTOR ":"George Chapman Poeta y dramaturgo ingl\u00e9s (1559-1634)"
+  },
+  {
+    "ID":81,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Quien premia la adulaci\u00f3n, la solicita.",
+    "AUTOR ":"Thomas Fuller Cl\u00e9rigo y escritor ingl\u00e9s (1608-1661)"
+  },
+  {
+    "ID":82,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"El m\u00e1s da\u00f1ino de todos los animales salvajes es el murmurador; de los animales dom\u00e9sticos, el adulador.",
+    "AUTOR ":"Di\u00f3genes Laercio Escritor griego (Siglo III d. C.)"
+  },
+  {
+    "ID":83,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Prefiero que pregunten por qu\u00e9 no hay una estatua m\u00eda que por qu\u00e9 la hay.",
+    "AUTOR ":"Marco Porcio Cat\u00f3n (El Censor) Orador romano"
+  },
+  {
+    "ID":84,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"que la prosperidad no llega a percibir.",
+    "AUTOR ":"Henri-Dominique Lacordaire Predicador y escritor franc\u00e9s (1802-1861)"
+  },
+  {
+    "ID":85,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Los malos tiempos tienen un gran valor de ense\u00f1anza que ning\u00fan estudiante debe desaprovechar.",
+    "AUTOR ":"Ralph Waldo Emerson Fil\u00f3sofo y ensayista estadounidense (1803-1882)"
+  },
+  {
+    "ID":86,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"El oprimido por la adversidad no debe mostrarse menesteroso, porque har\u00e1 desesperada su fortuna.",
+    "AUTOR ":"Diego de Saavedra Fajardo Escritor y pol\u00edtico espa\u00f1ol (1584-1648)"
+  },
+  {
+    "ID":87,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Si en medio de adversidades persevera el coraz\u00f3n con gozo y con paz, eso es amor.",
+    "AUTOR ":"Santa Teresa de Jes\u00fas Religiosa y escritora espa\u00f1ola (1515-1582)"
+  },
+  {
+    "ID":88,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Los golpes de la adversidad son muy amargos, pero nunca est\u00e9riles.",
+    "AUTOR ":"Joseph-Ernest Renan Fil\u00f3sofo e historiador franc\u00e9s (1823-1892)"
+  },
+  {
+    "ID":89,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"No hay hombre m\u00e1s desdichado que el que nunca prob\u00f3 la adversidad.",
+    "AUTOR ":"Demetrio Fal\u00e9reo Orador y fil\u00f3sofo ateniense (350-285 a. C.)"
+  },
+  {
+    "ID":90,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Un hombre que ha besado la adversidad dif\u00edcilmente se abate.",
+    "AUTOR ":"Lyndon Baines Johnson Pol\u00edtico estadounidense (1908-1973)"
+  },
+  {
+    "ID":91,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"No hay mejor educaci\u00f3n que la de la adversidad.",
+    "AUTOR ":"Benjamin Disraeli Pol\u00edtico y novelista ingl\u00e9s (1804-1881)"
+  },
+  {
+    "ID":92,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"La adversidad es un espejo en el que deben mirarse todos los que verdaderamente quieran conocerse.",
+    "AUTOR ":"Antonio Manero Pol\u00edtico y escritor mexicano (1885-1964)"
+  },
+  {
+    "ID":93,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"No se debe ceder a los insultos del adverso destino; la adversidad insoportable no dura y a la tolerable se la vence.",
+    "AUTOR ":"Metastasio (Pietro Trapassi) Poeta italiano (1698-1782)"
+  },
+  {
+    "ID":94,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Las cosas buenas de la prosperidad deben desearse; pero las cosas buenas de la adversidad deben admirarse.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca Fil\u00f3sofo latino (4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":95,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"No existe prosperidad sin temores y disgustos; la adversidad tampoco existe sin conformismo y esperanzas.",
+    "AUTOR ":"Francis Bacon Fil\u00f3sofo y estadista ingl\u00e9s (1561-1626)"
+  },
+  {
+    "ID":96,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"S\u00f3lo en la fortuna adversa se hallan las grandes lecciones del hero\u00edsmo.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca Fil\u00f3sofo latino (4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":97,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"No hay adversidad que pueda derribar a aquel que la prosperidad no ha logrado enga\u00f1ar.",
+    "AUTOR ":"San Gregorio Te\u00f3logo de la iglesia griega (540-604)"
+  },
+  {
+    "ID":98,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"terrible prueba, pero una vez superada resulta \u00fatil para todo el resto de la vida.",
+    "AUTOR ":"Federico ii El Grande Rey de Prusia (1712-1786)"
+  },
+  {
+    "ID":99,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"La adversidad recuerda a los hombres la religi\u00f3n.",
+    "AUTOR ":"Lucien L\u00e9vy-bruhl Soci\u00f3logo franc\u00e9s (1857-1930)"
+  },
+  {
+    "ID":100,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Si ahora nos sucede mal, no ser\u00e1 as\u00ed siempre.",
+    "AUTOR ":"Quinto Horacio Flaco Poeta latino (65-8 a. C.)"
+  },
+  {
+    "ID":101,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Aunque se cree generalmente que la adversidad desarrolla las virtudes, s\u00f3lo lo hace en la gente virtuosa.",
+    "AUTOR ":"Honor\u00e9 de Balzac Escritor franc\u00e9s (1799-1850)"
+  },
+  {
+    "ID":102,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"De cien hombres que pueden soportar la adversidad, apenas habr\u00e1 uno que pueda soportar la felicidad.",
+    "AUTOR ":"Thomas Carlyle Escritor escoc\u00e9s (1795-1881)"
+  },
+  {
+    "ID":103,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Nada infunde m\u00e1s \u00e1nimos en la adversidad que la meditaci\u00f3n de los hechos ejemplares de los grandes hombres.",
+    "AUTOR ":"Stephen Crane Escritor estadounidense "
+  },
+  {
+    "ID":104,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"En toda adversidad los lamentos hacen necios y la acci\u00f3n sabios.",
+    "AUTOR ":"Napole\u00f3n Bonaparte  Emperador franc\u00e9s"
+  },
+  {
+    "ID":105,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"La adversidad tiene el don de despertar talentos en la prosperidad hubiesen permanecido durmiendo.",
+    "AUTOR ":" Quinto Horacio Flaco Poeta latino"
+  },
+  {
+    "ID":106,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"En tiempos de adversidad es cuando conviene observar a los hombres, las m\u00e1scaras se les caen y se muestran como son.",
+    "AUTOR ":" Tito Lucrecio Caro Poeta latino"
+  },
+  {
+    "ID":107,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Es indecente y mala, nada puedo decir a su favor, salvo que es mi mejor amiga.",
+    "AUTOR ":"Oscar Wilde (Fingal O\u2019Flahertie Wills)-Dramaturgo, poeta y novelista irland\u00e9s-(1854-1900)"
+  },
+  {
+    "ID":108,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La ausencia es una integrante que devuelve al amor el gusto que la costumbre le hizo perder.",
+    "AUTOR ":"Amado Nervo (Juan Cris\u00f3stomo Ruiz de Nervo)-Escritor y poeta mexicano-(1870-1919)"
+  },
+  {
+    "ID":109,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Las viejas amistades no se improvisan.",
+    "AUTOR ":"Georges Courteline (Georges Moineaux)-Literato y dramaturgo franc\u00e9s-(1858-1929)"
+  },
+  {
+    "ID":110,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La vida no es nada sin la amistad.",
+    "AUTOR ":"Marco Tulio Cicer\u00f3n-Orador, prosista, pol\u00edtico y fil\u00f3sofo romano-(106-43 a. C.)"
+  },
+  {
+    "ID":111,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad da esplendor a la prosperidad y hace m\u00e1s llevadera la adversidad compartiendo sus desdichas.",
+    "AUTOR ":"Marco Tulio Cicer\u00f3n-Orador, prosista, pol\u00edtico y fil\u00f3sofo romano-(106-43 a. C.)"
+  },
+  {
+    "ID":112,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La naturaleza quiere que la amistad sea auxiliadora de virtudes, mas no compa\u00f1era de vicios.",
+    "AUTOR ":"Marco Tulio Cicer\u00f3n-Orador, prosista, pol\u00edtico y fil\u00f3sofo romano-(106-43 a. C.)"
+  },
+  {
+    "ID":113,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad debe ser infinitamente m\u00e1s tolerante que el amor.",
+    "AUTOR ":"Madame de Genlis (St\u00e9phanie F\u00e9licit\u00e9 Ducrest de-Saint-Aubin)-Escritora francesa"
+  },
+  {
+    "ID":114,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Tu amigo tiene un amigo y el amigo de tu amigo tiene otro amigo; por consiguiente, s\u00e9 discreto.",
+    "AUTOR ":"Talmud (Libro sagrado de la religi\u00f3n jud\u00eda)--No hay riqueza tan segura como un"
+  },
+  {
+    "ID":115,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad no puede ser fuente sino en la madurez del esp\u00edritu y de la edad.",
+    "AUTOR ":"Marco Tulio Cicer\u00f3n-Orador prosista, pol\u00edtico y fil\u00f3sofo romano-(106-43 a. C.)"
+  },
+  {
+    "ID":116,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Cuando uno ha sido buen amigo, encuentra buenas amistades aun a pesar suyo.",
+    "AUTOR ":"-Nicol\u00e1s Maquiavelo (Niccol\u00f2 Machiavelli)-Pol\u00edtico y escritor italiano"
+  },
+  {
+    "ID":117,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Los amigos: una familia cuyos individuos se eligen a voluntad.",
+    "AUTOR ":"Jean-Baptiste-Alphonse Karr-Escritor y periodista franc\u00e9s-(1808-1890)"
+  },
+  {
+    "ID":118,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Guardaos de las sospechas, que son el veneno de la amistad.",
+    "AUTOR ":"San Agust\u00edn de Hipona-Fil\u00f3sofo romano, nacido en Numidia-(354-430)"
+  },
+  {
+    "ID":119,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Cuanto mejor es una persona, tanto m\u00e1s dif\u00edcilmente sospecha de la amistad de los dem\u00e1s.",
+    "AUTOR ":"-Marco Tulio Cicer\u00f3n-Orador, prosista, pol\u00edtico y fil\u00f3sofo romano"
+  },
+  {
+    "ID":120,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Si suprimi\u00e9ramos la amistad de la vida, ser\u00eda lo mismo que quitar del mundo el sol, porque ning\u00fan don tan estimable y deleitoso recibimos de los dioses inmortales.",
+    "AUTOR ":"Marco Tulio Cicer\u00f3n--Orador, prosista, pol\u00edtico y fil\u00f3sofo romano"
+  },
+  {
+    "ID":121,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Creo que la amistad es m\u00e1s dif\u00edcil y m\u00e1s rara que el amor. Por eso hay que salvarla como sea.",
+    "AUTOR ":"Alberto Moravia (Alberto Picherle)-Escritor italiano-(1907-1990)"
+  },
+  {
+    "ID":122,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Ning\u00fan lazo une tan fuertemente dos corazones como la compa\u00f1\u00eda en el dolor.",
+    "AUTOR ":"Robert Southey-Poeta, historiador y ensayista ingl\u00e9s-(1774-1843)"
+  },
+  {
+    "ID":123,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No hay desierto como vivir sin amigos; la amistad multiplica los bienes y reparte los males, es el \u00fanico remedio contra la adversa fortuna y un desahogo del alma.",
+    "AUTOR ":"Baltasar Graci\u00e1n y Morales-Jesuita y escrito espa\u00f1ol-(1601-1658)"
+  },
+  {
+    "ID":124,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La inclinaci\u00f3n y el anhelo de una amistad y un amor es verdadero privilegio de las almas tiernas e \u00edntimamente sensibles.",
+    "AUTOR ":"Alexander von Humboldt-Naturalista y ge\u00f3grafo alem\u00e1n-(1769-1859)"
+  },
+  {
+    "ID":125,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La divisi\u00f3n de los goces, no de los sufrimientos, hace a los amigos.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche-Fil\u00f3sofo y poeta alem\u00e1n-(1844-1900)"
+  },
+  {
+    "ID":126,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad m\u00e1s profunda y exquisita se siente herida a menudo por el pliegue de un p\u00e9talo de rosa.",
+    "AUTOR ":"Chamfort (Nicol\u00e1s S\u00e9bastien Roch)-Escritor franc\u00e9s-(1741-1794)"
+  },
+  {
+    "ID":127,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Las amistades de la juventud deben durar toda la vida. Dejarlas a la puerta del colegio, al abandonarlo para siempre, ser\u00eda dejar nuestra fortuna m\u00e1s preciosa.",
+    "AUTOR ":"Anatole France (Anatole Thibault)-Escritor franc\u00e9s-(1844-1924)"
+  },
+  {
+    "ID":128,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Detesto la ayuda de los amigos lentos.",
+    "AUTOR ":"Eur\u00edpides de Salamina-Escritor tr\u00e1gico griego-(480-406 a. C.)"
+  },
+  {
+    "ID":129,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No conozco mayor enemigo del hombre que el amigo de todo el mundo.",
+    "AUTOR ":"Jean-Jacques Rousseau-Escritor y fil\u00f3sofo franc\u00e9s-(1712-1778)"
+  },
+  {
+    "ID":130,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad es un comercio desinteresado entre semejantes.",
+    "AUTOR ":"Oliver Goldsmith-Novelista y dramaturgo irland\u00e9s-(1728-1774)"
+  },
+  {
+    "ID":131,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Los ratos m\u00e1s agradables de mi vida son los que paso en amena charla con las personas de mi estimaci\u00f3n.",
+    "AUTOR ":"Bernardo Canal Feij\u00f3o-Escritor y poeta argentino-(1897-1975)"
+  },
+  {
+    "ID":132,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad que no exige nada ni se queja nunca es casi siempre una amistad d\u00e9bil.",
+    "AUTOR ":"Madame d\u2019Arconville-(Marie Geneve Charlotte Darius-Thiroux)"
+  },
+  {
+    "ID":133,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Si quer\u00e9is formar juicio acerca de un hombre, observad qui\u00e9nes son sus amigos.",
+    "AUTOR ":"-F\u00e9nelon (Fran\u00e7ois de Salinac de la Mothe)-Escritor franc\u00e9s"
+  },
+  {
+    "ID":134,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No hay que mirar qu\u00e9 bien nos ha hecho el amigo, sino solamente el deseo que \u00e9l tiene de hac\u00e9rnoslo.",
+    "AUTOR ":"Marquesa de Sabl\u00e9 (Madeleine de Souvr\u00e9)-Escritora francesa-"
+  },
+  {
+    "ID":135,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No creo que los amigos sean necesariamente la gente que m\u00e1s te gusta, son meramente la gente que estuvo all\u00ed primero.",
+    "AUTOR ":"Peter Ustinov-Escritor, actor y director ingl\u00e9s-(1921-2004)"
+  },
+  {
+    "ID":136,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Tan inapreciable tesoro es un amigo fiel, que nunca debemos ponerlo al servicio ajeno.",
+    "AUTOR ":"Jean de La Bruy\u00e8re-Escritor moralista franc\u00e9s-(1645-1696)"
+  },
+  {
+    "ID":137,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Aceptar un favor de un amigo es hacerle otro.",
+    "AUTOR ":"John Churton Collins-Cr\u00edtico literario ingl\u00e9s-(1848-1908)"
+  },
+  {
+    "ID":138,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"En la amistad como en el amor, se es m\u00e1s a menudo feliz por las cosas que se ignoran que por las que se saben.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-(1613-1680)"
+  },
+  {
+    "ID":139,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El mayor esfuerzo de la amistad no es mostrar nuestros defectos al amigo, sino hacerle ver los suyos.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-(1613-1680)"
+  },
+  {
+    "ID":140,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Lo que hace que la mayor\u00eda de las mujeres sean tan poco sensibles a la amistad es que la encuentran ins\u00edpida una vez que han aprobado el gusto del amor.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-(1613-1680)"
+  },
+  {
+    "ID":141,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad acaba a menudo en amor, pero el amor no termina nunca en amistad.",
+    "AUTOR ":"Charles Caleb Colton-Poeta y ensayista ingl\u00e9s-(1780-1832)"
+  },
+  {
+    "ID":142,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La buena y verdadera amistad no puede ni debe ser sospechosa en nada.",
+    "AUTOR ":"Miguel de Cervantes Saavedra-Escritor espa\u00f1ol-(1547-1616)"
+  },
+  {
+    "ID":143,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El recuerdo de una amistad del colegio tiene cierta fuerza m\u00e1gica: ablanda el coraz\u00f3n y hasta conmueve el sistema nervioso de los que no tienen coraz\u00f3n.",
+    "AUTOR ":"Benjamin Disraeli-Pol\u00edtico y novelista ingl\u00e9s-(1804-1881)"
+  },
+  {
+    "ID":144,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Por raro que sea un verdadero amor, es m\u00e1s rara una verdadera amistad.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-(1613-1680)"
+  },
+  {
+    "ID":145,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Considero una cobard\u00eda guardar desconfianza cuando un franco coraz\u00f3n ofrece una mano abierta como garant\u00eda de amistad.",
+    "AUTOR ":"William Shakespeare-Dramaturgo y poeta ingl\u00e9s-(1564-1616)"
+  },
+  {
+    "ID":146,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Los amigos son una ficci\u00f3n basada en una experiencia moment\u00e1nea.",
+    "AUTOR ":"Ralph Waldo Emerson--Fil\u00f3sofo y ensayista estadounidense"
+  },
+  {
+    "ID":147,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Debemos rehuir la amistad de los malos y la enemistad de los buenos.",
+    "AUTOR ":"Epicteto de Frigia-Fil\u00f3sofo estoico grecolatino-(50-135)"
+  },
+  {
+    "ID":148,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Nuevos amigos, nuevos dolores.",
+    "AUTOR ":"Wolfgang Amadeus Mozart-Compositor austriaco-(1756-1791)"
+  },
+  {
+    "ID":149,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"S\u00e9 lento en adquirir amistades, pero s\u00e9 constante en retenerlas una vez admitidas.",
+    "AUTOR ":"Juan Luis Vives-Humanista y fil\u00f3sofo espa\u00f1ol-(1492-1540)"
+  },
+  {
+    "ID":150,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El amigo de todo el mundo no es un amigo.",
+    "AUTOR ":"Arist\u00f3teles de Estagira-Fil\u00f3sofo griego-(384-32 a. C.)"
+  },
+  {
+    "ID":151,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Se encuentra m\u00e1s f\u00e1cilmente a un amigo que lo que se le retiene.",
+    "AUTOR ":"Bozena Nemcova (Barbora Panklova)-Escritora austriaca-"
+  },
+  {
+    "ID":152,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No es amigo quien r\u00ede mis risas, sino quien llora mis l\u00e1grimas.",
+    "AUTOR ":"Rabindranath Tagore-Fil\u00f3sofo y poeta hind\u00fa-(1861-1941)"
+  },
+  {
+    "ID":153,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El mayor bien que tienen los hombres es la amistad. Espada es segura, siempre al lado, en la paz y en la guerra.",
+    "AUTOR ":"Diego de Saavedra Fajardo--Escritor y pol\u00edtico espa\u00f1ol"
+  },
+  {
+    "ID":154,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad no puede sobrevivir sin la estima, y \u00e9sta es una de sus ventajas sobre el amor.",
+    "AUTOR ":"Mademoiselle de Sommery-Escritora francesa-(1711-1790)"
+  },
+  {
+    "ID":155,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El amigo ha de ser como la sangre, que acude luego a la herida sin esperar a que le llamen.",
+    "AUTOR ":"Francisco G\u00f3mez de Quevedo y-Villegas-Escritor espa\u00f1ol"
+  },
+  {
+    "ID":156,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Si quieres hallar en cualquier lado amistad, dulzura y poes\u00eda, ll\u00e9valas contigo.",
+    "AUTOR ":"Georges Duhamel-M\u00e9dico y escritor franc\u00e9s-(1884-1966)"
+  },
+  {
+    "ID":157,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"En la conformidad de las voluntades consiste la verdadera amistad.",
+    "AUTOR ":"Cayo Crispo Salustio-Historiador romano-(86-35 a. C.)"
+  },
+  {
+    "ID":158,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Sabed que cuando uno es amigo de s\u00ed mismo, lo es tambi\u00e9n de todo el mundo.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":159,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No hay soledad m\u00e1s triste y afligida que la de un hombre sin amigos, sin los cuales el mundo es un desierto; el que es incapaz de amistad, m\u00e1s tiene de bestia que de hombre.",
+    "AUTOR ":"Francis Bacon-Fil\u00f3sofo y estadista ingl\u00e9s-(1561-1626)"
+  },
+  {
+    "ID":160,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La verdadera amistad es planta de lento crecimiento que debe sufrir y vencer los embates del infortunio antes de que sus frutos lleguen a la completa madurez.",
+    "AUTOR ":"George Washington-Pol\u00edtico estadounidense-(1732-1799)"
+  },
+  {
+    "ID":161,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad, como el diluvio universal, es un fen\u00f3meno del que todo el mundo habla, pero que nadie ha visto con sus ojos.",
+    "AUTOR ":"Enrique Jardiel Poncela-Escritor espa\u00f1ol-(1901-1952)"
+  },
+  {
+    "ID":162,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad verdadera requiere tres cosas: la virtud para ser honesta, la conversaci\u00f3n para ser agradable y la utilidad porque le es necesaria.",
+    "AUTOR ":"Plutarco de Queronea-Historiador y moralista griego-"
+  },
+  {
+    "ID":163,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad es animal de compa\u00f1\u00eda, no de reba\u00f1o.",
+    "AUTOR ":"-Plutarco de Queronea-Historiador y moralista griego"
+  },
+  {
+    "ID":164,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El amigo m\u00edo aquel que me socorre, no el que me compadece.",
+    "AUTOR ":"Thomas Fuller-Cl\u00e9rigo y escritor ingl\u00e9s-(1608-1661)"
+  },
+  {
+    "ID":165,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Entre un hombre y una mujer j\u00f3venes la amistad es posible. Es un bello sue\u00f1o que siempre tiene un triste despertar. Se puede querer, solamente amar con amistad pero no puede evitarse el amar con amor.",
+    "AUTOR ":"Johann Wolfgang von Goethe-Escritor y poeta alem\u00e1n-"
+  },
+  {
+    "ID":166,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad no se halla en los ignorantes ni en los sabios; en los primeros, porque quitando la utilidad se acaba la amistad; en los segundos, porque no la necesitan.",
+    "AUTOR ":"Aristipo de Cirene-Fil\u00f3sofo griego-(Siglo IV a. C.)"
+  },
+  {
+    "ID":167,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad disminuye cuando hay demasiada felicidad de una parte y demasiada desgracia de la otra.",
+    "AUTOR ":"Isabel de Rumania (Carmen Silva)-Reina-(1843-1916)"
+  },
+  {
+    "ID":168,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No te des prisa en adquirir nuevos amigos, ni en dejar los que tengas.",
+    "AUTOR ":"Sol\u00f3n-Fil\u00f3sofo y legislador griego-(640-560 a. C.)"
+  },
+  {
+    "ID":169,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La felicidad que debemos a nuestro amigo es una cosa sagrada, que no permite la m\u00e1s leve iron\u00eda.",
+    "AUTOR ":"Pit\u00e1goras de Samos-Fil\u00f3sofo griego-(571-497 a. C.)"
+  },
+  {
+    "ID":170,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La mejor manera de conservar a los amigos es no pedirles prestado nunca ni prestarles nada.",
+    "AUTOR ":"Charles Paul de Kock-Novelista franc\u00e9s-(1794-1871)"
+  },
+  {
+    "ID":171,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"un amigo fiel, porque os expondr\u00edais a caminar solos toda vuestra vida.",
+    "AUTOR ":"Joaqu\u00edn Mar\u00eda Bartrina y de-Aixem\u00fas-Poeta espa\u00f1ol"
+  },
+  {
+    "ID":172,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La \u00fanica amistad que vale es la que nace sin motivos.",
+    "AUTOR ":"Arthur van Schendel-Escritor holand\u00e9s-(1874-1946)"
+  },
+  {
+    "ID":173,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Todos se llaman amigos; pero es loco aquel que se f\u00eda. Nada es tan com\u00fan como este nombre; nada tan dif\u00edcil como la amistad misma.",
+    "AUTOR ":"Jean de La Fontaine-Escritor franc\u00e9s-(1621-1695)"
+  },
+  {
+    "ID":174,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Toda amistad de car\u00e1cter pol\u00edtico tiene su finalidad; una vez alcanzada \u00e9sta, se desata, y con las nuevas circunstancias se crean otras combinaciones.",
+    "AUTOR ":"Leopold von Ranke-Historiador alem\u00e1n-(1795-1886)"
+  },
+  {
+    "ID":175,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El sabio conoce que la amistad que funda en el inter\u00e9s; es una tierra que se siembra para rec\u00edproca utilidad.",
+    "AUTOR ":"Epicuro de Samos-Fil\u00f3sofo griego-(341-270 a. C.)"
+  },
+  {
+    "ID":176,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Las amistades son como los matrimonios: de cada diez hace uno por amor.",
+    "AUTOR ":"Edmondo De Amicis-Escritor italiano-(1846-1908)"
+  },
+  {
+    "ID":177,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"S\u00f3lo un buen amigo es capaz de comprender que su presencia puede llegar a molestarnos.",
+    "AUTOR ":"Noel Claras\u00f3 Daudi-Escritor espa\u00f1ol-(1906-1985)"
+  },
+  {
+    "ID":178,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"La amistad entre dos mujeres es siempre una conspiraci\u00f3n contra una tercera.",
+    "AUTOR ":"Ninon de Lenclos-Cortesana francesa-(1620-1705)"
+  },
+  {
+    "ID":179,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No es f\u00e1cil que haya verdadera amistad entre dos mujeres, como no es f\u00e1cil que sean buenos amigos dos comerciantes que venden el mismo art\u00edculo.",
+    "AUTOR ":"Ninon de Lenclos-Cortesana francesa-(1620-1705)"
+  },
+  {
+    "ID":180,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Mucha amistad es simulaci\u00f3n; mucho amor es locura.",
+    "AUTOR ":"-William Shakespeare-Dramaturgo y poeta ingl\u00e9s"
+  },
+  {
+    "ID":181,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"M\u00e1s vergonzoso es desconfiar de nuestros amigos que ser enga\u00f1ado por ellos.",
+    "AUTOR ":"-Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s"
+  },
+  {
+    "ID":182,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"En la prosperidad, nuestros amigos nos conocen; en la adversidad, nosotros conocemos a nuestros amigos.",
+    "AUTOR ":"-John Churton Collins-Cr\u00edtico literario ingl\u00e9s"
+  },
+  {
+    "ID":183,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El cierto amigo en la cosa incierta se conoce, en las adversidades se prueba.",
+    "AUTOR ":"Fernando de Rojas-Escritor espa\u00f1ol-(1465-1541)"
+  },
+  {
+    "ID":184,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Es parentesco sin sangre una amistad verdadera.",
+    "AUTOR ":"-Pedro Calder\u00f3n de la Barca-Dramaturgo espa\u00f1ol"
+  },
+  {
+    "ID":185,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Toda amistad, incluso la que se ha roto, tiene derechos que no prescriben f\u00e1cilmente.",
+    "AUTOR ":"Honor\u00e9 de Balzac-Escritor franc\u00e9s-(1799-1850)"
+  },
+  {
+    "ID":186,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No esperes a que tu amigo venga a descubrirte su necesidad; ay\u00fadale antes.",
+    "AUTOR ":"Juan Cuis Vives--Humanista y fil\u00f3sofo espa\u00f1ol"
+  },
+  {
+    "ID":187,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Cada nuevo amigo es un pedazo reconquistado de nosotros mismos.",
+    "AUTOR ":"Friedrich Hebbel-Escritor alem\u00e1n-(1813-1863)"
+  },
+  {
+    "ID":188,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Un hombre ha de mantener su amistad en continua reparaci\u00f3n.",
+    "AUTOR ":"Henry Fielding-Escritor ingl\u00e9s-(1707-1754)"
+  },
+  {
+    "ID":189,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Amistad que acaba no hab\u00eda comenzado.",
+    "AUTOR ":"Publilio Siro-Poeta latino-(Siglo I a. C.)"
+  },
+  {
+    "ID":190,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"No deshonres el nombre sagrado de la amistad d\u00e1ndola a quien tiene pocas virtudes o no conoce ninguna.",
+    "AUTOR ":"Silvio Pellico-Poeta italiano-(1789-1854)"
+  },
+  {
+    "ID":191,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Quien encontr\u00f3 un amigo, encontr\u00f3 un tesoro, y si en la balanza pone oro y plata, pesa a\u00fan m\u00e1s el amigo.",
+    "AUTOR ":"Carlo Gozzi-Escritor italiano-(1720-1806)"
+  },
+  {
+    "ID":192,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Uno no hace amigos: los reconoce a medida que los va encontrando.",
+    "AUTOR ":"-Isabel Paterson-Escritora estadounidense"
+  },
+  {
+    "ID":193,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Una amistad anudad en los primeros a\u00f1os es la \u00fanica que nunca muere.",
+    "AUTOR ":"Heinrich Mann-Escritor alem\u00e1n-(1871-1950)"
+  },
+  {
+    "ID":194,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Anhelar y despreciar las mismas cosas representa la m\u00e1s firme garant\u00eda de amistad.",
+    "AUTOR ":"Cayo Crispo Salustio--Historiador romano"
+  },
+  {
+    "ID":195,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Incierta es la amistad en la pr\u00f3spera fortuna.",
+    "AUTOR ":"San Isidro-Labriego espa\u00f1ol-(Siglo XII)"
+  },
+  {
+    "ID":196,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Indudablemente, es menos dif\u00edcil morir por un amigo que encontrar un amigo que merezca morir por \u00e9l.",
+    "AUTOR ":"Juan Mar\u00edn-Escritor chileno-(1900-1963)"
+  },
+  {
+    "ID":197,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Cada uno se modela imperceptiblemente sobre aqu\u00e9llos con quienes trata y frecuenta.",
+    "AUTOR ":"Clemente xiv-(Vincenzo Canganelli)-Papa"
+  },
+  {
+    "ID":198,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Los verdaderos amigos se tienen que enfadar de vez en cuando.",
+    "AUTOR ":"Louis Pasteur-Sabio franc\u00e9s-(1822-1895)"
+  },
+  {
+    "ID":199,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Cualquiera puede simpatizar con las penas de un amigo; simpatizar con sus \u00e9xitos requiere una naturaleza delicad\u00edsima.",
+    "AUTOR ":"Oscar Wilde--(Fingal O\u2019Flahertie Wills)"
+  },
+  {
+    "ID":200,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Hay gentes que se muestran encantadas por tener centenares de amigos, pero el amigo verdadero nos es m\u00e1s adicto que un hermano.",
+    "AUTOR ":"Salom\u00f3n-Rey de Israel-(1020-929 a. C.)"
+  },
+  {
+    "ID":201,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Corriente es el nombre de amigo, pero la verdadera amistad es rara.",
+    "AUTOR ":"Fedro-Fil\u00f3sofo griego-(Siglo V a. C.)"
+  },
+  {
+    "ID":202,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El amigo que sufre a solas hace una injuria a otro.",
+    "AUTOR ":"-Jean Rotru-Poeta dram\u00e1tico franc\u00e9s"
+  },
+  {
+    "ID":203,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Todo lo debemos consultar con el amigo, mas primero hay que consultar si lo es.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca--Fil\u00f3sofo latino"
+  },
+  {
+    "ID":204,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"Mientras tenga raz\u00f3n no encontrar\u00e9 nada comparable a un amigo.",
+    "AUTOR ":"-Quinto Horacio Flaco-Poeta latino"
+  },
+  {
+    "ID":205,
+    "CATEGORIA":"AMISTAD",
+    "FRASE":"El amigo debe ser como el dinero que, antes de tenerlo, se sabe el valor que tiene.",
+    "AUTOR ":"S\u00f3crates--Fil\u00f3sofo griego"
+  },
+  {
+    "ID":206,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"Amarse a s\u00ed mismo es el comienzo de una aventura que dura toda la vida.",
+    "AUTOR ":"Oscar Wilde (Fingal O\u2019Flahertie Wills)-Dramaturgo, poeta y novelista irland\u00e9s-(1854-1900)"
+  },
+  {
+    "ID":207,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"Amarse a s\u00ed mismo al menos tiene una ventaja: no hay muchos rivales.",
+    "AUTOR ":"Georg Christoph Lichtenberg-Escritor y cient\u00edfico alem\u00e1n-(1742-1799)"
+  },
+  {
+    "ID":208,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"Se es f\u00e1cilmente enga\u00f1ado por el ser a quien se ama y el amor propio nos incita a enga\u00f1arnos a nosotros mismos.",
+    "AUTOR ":"Moli\u00e8re (Jean-Baptiste Poquelin)-Dramaturgo franc\u00e9s-(1622-1673)"
+  },
+  {
+    "ID":209,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"El amor propio ofendido es el m\u00e1s seguro ant\u00eddoto del amor.",
+    "AUTOR ":"Mariano Jos\u00e9 de Larra-Periodista y escritor espa\u00f1ol-(1809-1837)"
+  },
+  {
+    "ID":210,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"El vicio que nos impide conocer nuestros defectos se llama amor propio, y es el que da tanto cr\u00e9dito a los aduladores.",
+    "AUTOR ":"Jacques-B\u00e9nigne Bossuet-Escritor y orador franc\u00e9s-(1627-1704)"
+  },
+  {
+    "ID":211,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"mecanismo de la reproducci\u00f3n del g\u00e9nero humano; es necesario, nos causa placer y debemos ocultarlo.",
+    "AUTOR ":"Voltaire (Fran\u00e7ois-Marie Arouet)-Escritor franc\u00e9s-(1694-1778)"
+  },
+  {
+    "ID":212,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"El hombre vale tanto cuanto \u00e9l se estima.",
+    "AUTOR ":"Plutarco de Queronea-Historiador y moralista griego-(46-120)"
+  },
+  {
+    "ID":213,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"El amor propio es m\u00e1s h\u00e1bil que el hombre m\u00e1s h\u00e1bil del mundo.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-(1613-1680)"
+  },
+  {
+    "ID":214,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"El amor propio es el m\u00e1s grande de los aduladores.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-(1613-1680)"
+  },
+  {
+    "ID":215,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"El amor propio es un malvado y un traidor que emplea la seducci\u00f3n y el halago, aunque por lo com\u00fan no persigue m\u00e1s que enga\u00f1arse e inducirnos al error.",
+    "AUTOR ":"Giuseppe Baretti-Cr\u00edtico y literato italiano-(1719-1789)"
+  },
+  {
+    "ID":216,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"Si hiere al amor propio, no se le mata.",
+    "AUTOR ":"Henri-Bonaventure Monnier-Escritor franc\u00e9s-(1805-1877)"
+  },
+  {
+    "ID":217,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"Los que nunca var\u00edan de opini\u00f3n se aman a s\u00ed mismos m\u00e1s que a la verdad.",
+    "AUTOR ":"Joseph Joubert-Escritor y cr\u00edtico franc\u00e9s-(1754-1824)"
+  },
+  {
+    "ID":218,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"Un amor que domine todo el ser con ilimitada devoci\u00f3n puede ser superado, incluso, por los celos, lo cual es m\u00e1s bien un fruto del amor propio que del amor hacia otra persona.",
+    "AUTOR ":"Rudolf von Gottschall--Literato y publicidad alem\u00e1n"
+  },
+  {
+    "ID":219,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"Quien se ama a s\u00ed mismo ama a un hombre malvado.",
+    "AUTOR ":"Thomas Fuller-Cl\u00e9rigo y escritor ingl\u00e9s-(1608-1661)"
+  },
+  {
+    "ID":220,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"El amor propio injuriado nunca perdona.",
+    "AUTOR ":"Etienne de la Vig\u00e9e-Escritor franc\u00e9s-(1758-1820)"
+  },
+  {
+    "ID":221,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"No comprendo que pueda existir algo m\u00e1s maravilloso que yo mismo.",
+    "AUTOR ":"Walt Whitman-Poeta estadounidense-(1819-1892)"
+  },
+  {
+    "ID":222,
+    "CATEGORIA":"AMOR PROPIO",
+    "FRASE":"En el naufragio de la embriaguez se puede observar que el \u00fanico sentimiento que se mantiene a flote es el amor propio.",
+    "AUTOR ":"Honor\u00e9 de Balzac--Escritor franc\u00e9s"
+  },
+  {
+    "ID":223,
+    "CATEGORIA":"ANSIEDAD",
+    "FRASE":"No hay fuente que pueda saciar tu ansiedad por mucho que bebas; el alma es un vaso que s\u00f3lo se llena con la eternidad.",
+    "AUTOR ":"Amado Nervo (Juan Cris\u00f3stomo Ruiz de Nervo)-Escritor y poeta mexicano-(1870-1919)"
+  },
+  {
+    "ID":224,
+    "CATEGORIA":"ANSIEDAD",
+    "FRASE":"Dos tragedias hay en la vida: no lograr lo que el coraz\u00f3n ans\u00eda y lograrlo.",
+    "AUTOR ":"George Bernard Shaw-Novelista, cr\u00edtico y dramaturgo irland\u00e9s-(1856-1950)"
+  },
+  {
+    "ID":225,
+    "CATEGORIA":"ANSIEDAD",
+    "FRASE":"Ning\u00fan negocio humano merece mucha ansiedad.",
+    "AUTOR ":"Plat\u00f3n (Aristocles)-Fil\u00f3sofo griego-(427-347 a. C.)"
+  },
+  {
+    "ID":226,
+    "CATEGORIA":"ANSIEDAD",
+    "FRASE":"Debes negarte a los ansiosos y a los reservados, incluso ofreci\u00e9ndoles lo que piden.",
+    "AUTOR ":"Fedra-Fil\u00f3sofo griego-(Siglo V a. C.)"
+  },
+  {
+    "ID":227,
+    "CATEGORIA":"ASTUCIA",
+    "FRASE":"Dadme dos l\u00edneas escritas del pu\u00f1o y letra del hombre m\u00e1s honrado y encontrar\u00e9 la manera de hacerlo prender.",
+    "AUTOR ":"Cardenal Richelieu (Armand Jean du Plessis)-Prelado y pol\u00edtico franc\u00e9s-(1585-1642)"
+  },
+  {
+    "ID":228,
+    "CATEGORIA":"ASTUCIA",
+    "FRASE":"Hay dos poderes pac\u00edficos: el derecho y la astucia.",
+    "AUTOR ":"Johann Wolfgang von Goethe-Escritor y poeta alem\u00e1n-(1749-1832)"
+  },
+  {
+    "ID":229,
+    "CATEGORIA":"ASTUCIA",
+    "FRASE":"Que el valor quebrantado ya conf\u00eda en el recato m\u00e1s que en la osad\u00eda.",
+    "AUTOR ":"Marco Anneo Lucano-Poeta e historiador latino-(39-65)"
+  },
+  {
+    "ID":230,
+    "CATEGORIA":"ASTUCIA",
+    "FRASE":"La virtud es una l\u00ednea horizontal; la fuerza es la l\u00ednea vertical; y la astucia es una l\u00ednea oblicua.",
+    "AUTOR ":"-Jean Louis Auguste Commerson-Escritor franc\u00e9s"
+  },
+  {
+    "ID":231,
+    "CATEGORIA":"ASTUCIA",
+    "FRASE":"Los astutos vencen siempre en el primer momento y suelen ser vencidos antes del fin.",
+    "AUTOR ":"Giovanni Papini-Escritor italiano-(1881-1956)"
+  },
+  {
+    "ID":232,
+    "CATEGORIA":"ASTUCIA",
+    "FRASE":"La astucia, que es parte del ingenio, se usa muchas veces para suplir la escasez de \u00e9ste.",
+    "AUTOR ":"Giacomo Leopardi-Escritor italiano-"
+  },
+  {
+    "ID":233,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Las tres mayores cosas que los hombres ambicionan: el poder, las riquezas y el amor, no se conquistan con talento, sino con audacia y perseverancia.",
+    "AUTOR ":"Amado Nervo (Juan Cris\u00f3stomo Ruiz de Nervo)-Escritor y poeta mexicano-(1870-1919)"
+  },
+  {
+    "ID":234,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Pon un grano de audacia en todo cuanto hagas.",
+    "AUTOR ":"Baltasar Graci\u00e1n y Morales-Jesuita y escritor espa\u00f1ol-(1601-1658)"
+  },
+  {
+    "ID":235,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"La atracci\u00f3n del peligro es el fondo de todas las pasiones profundas del hombre.",
+    "AUTOR ":"Anatole France (Anatole Thibault)-Escritor franc\u00e9s-(1844-1924)"
+  },
+  {
+    "ID":236,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Yo amo a aquel que desea lo imposible.",
+    "AUTOR ":"Johann Wolfgang von Goethe-Escritor y poeta alem\u00e1n-(1749-1832)"
+  },
+  {
+    "ID":237,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"El \u00e9xito fue siempre hijo de la audacia.",
+    "AUTOR ":"Voltaire (Fran\u00e7ois-Marie Arouet)-Escritor franc\u00e9s-(1694-1778)"
+  },
+  {
+    "ID":238,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Me atrever\u00e9 a todo lo que pueda hacer un hombre. Quien se atreva a m\u00e1s es insensato.",
+    "AUTOR ":"William Shakespeare-Dramaturgo y poeta ingl\u00e9s-(1564-1616)"
+  },
+  {
+    "ID":239,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"La audacia se adquiere conociendo al mundo, y la discreci\u00f3n conociendo al hombre.",
+    "AUTOR ":"\u00c1ngel Ganivet-Escritor y diplom\u00e1tico espa\u00f1ol-(1865-1898)"
+  },
+  {
+    "ID":240,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"f\u00e1cilmente es arrastrado a creer que puede atreverse a todo.",
+    "AUTOR ":"Esquilo de Eleusis-Poeta tr\u00e1gico griego-(525-456 a. C.)"
+  },
+  {
+    "ID":241,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Fortuna y audacia van siempre juntas.",
+    "AUTOR ":"Metastasio (Pietro Trapassi)-Poeta italiano-(1698-1782)"
+  },
+  {
+    "ID":242,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Todo hombre es audaz cuando est\u00e1 en juego su fortuna entera.",
+    "AUTOR ":"Dionisio de Halicarnaso-Fil\u00f3sofo griego-(Siglo I a. C.)"
+  },
+  {
+    "ID":243,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Los dioses mismos prestan su mano a la audacia cuando es honesta.",
+    "AUTOR ":"Menandro de Atenas.-Comedi\u00f3grafo griego-(342-291 a. C.)"
+  },
+  {
+    "ID":244,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"En la desgracia conviene tomar alg\u00fan camino atrevido.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":245,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"El miedo a los dem\u00e1s hace crecer la audacia.",
+    "AUTOR ":"Tito Livio-Historiador romano-(59 a. C.-17 d. C.)"
+  },
+  {
+    "ID":246,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"a primera vista buenos, pero al ponerlos en pr\u00e1ctica son dif\u00edciles y generalmente acaban mal.",
+    "AUTOR ":"Tito Livio-Historiador romano-(59 a. C.-17 d. C.)"
+  },
+  {
+    "ID":247,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Con audacia se puede intentar todo; mas no se puede conseguir todo.",
+    "AUTOR ":"Napole\u00f3n Bonaparte-Emperador franc\u00e9s-(1769-1821)"
+  },
+  {
+    "ID":248,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Para ganar todo hay que atreverse a todo.",
+    "AUTOR ":"Honor\u00e9 de Balzac-Escritor franc\u00e9s-(1799-1850)"
+  },
+  {
+    "ID":249,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"La audacia sin juicio es peligrosa, y el juicio sin audacia es in\u00fatil.",
+    "AUTOR ":"Gustave Lebon-Soci\u00f3logo franc\u00e9s-(1841-1931)"
+  },
+  {
+    "ID":250,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"En la audacia, el talento consiste en saber hasta d\u00f3nde se puede llegar demasiado lejos.",
+    "AUTOR ":"Jean Cocteau-Escritor franc\u00e9s-(1891-1963)"
+  },
+  {
+    "ID":251,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"Nunca emprender\u00edamos nada si quisi\u00e9ramos asegurar por anticipado el \u00e9xito de nuestra empresa.",
+    "AUTOR ":"-Napole\u00f3n Bonaparte-Emperador franc\u00e9s"
+  },
+  {
+    "ID":252,
+    "CATEGORIA":"AUDACIA",
+    "FRASE":"La fortuna y el amor son amigos del audaz.",
+    "AUTOR ":"-Publio Ovidio Nas\u00f3n-Poeta romano"
+  },
+  {
+    "ID":253,
+    "CATEGORIA":"INSPIRACI\u00d3N",
+    "FRASE":"sin un toque de inspiraci\u00f3n.",
+    "AUTOR ":"Marco Tulio Cicer\u00f3n-Pol\u00edtico y orador romano-(106-43 a. C.)"
+  },
+  {
+    "ID":254,
+    "CATEGORIA":"INSPIRACI\u00d3N",
+    "FRASE":"Cuando llegue la inspiraci\u00f3n que me sorprenda trabajando.",
+    "AUTOR ":"Pablo Ruiz Picasso-Pintor espa\u00f1ol-(1881-1973)"
+  },
+  {
+    "ID":255,
+    "CATEGORIA":"INSPIRACI\u00d3N",
+    "FRASE":"La inspiraci\u00f3n es trabajar todos los d\u00edas.",
+    "AUTOR ":"Charles Baudelaire-Poeta franc\u00e9s-(1821-1867)"
+  },
+  {
+    "ID":256,
+    "CATEGORIA":"INSPIRACI\u00d3N",
+    "FRASE":"La inspiraci\u00f3n nunca llega cuando uno la anda buscando.",
+    "AUTOR ":"Lisa Alther-Escritora estadounidense--1944"
+  },
+  {
+    "ID":257,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Pues es mayor miseria la pobreza para quien se vio en pr\u00f3spera riqueza.",
+    "AUTOR ":"Alonso Ercilla y Z\u00fa\u00f1iga-Poeta y militar espa\u00f1ol-(1533-1594)"
+  },
+  {
+    "ID":258,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Maldici\u00f3n del siglo nuestro; que parece que el ser pobre al ser hidalgo es anexo.",
+    "AUTOR ":"Miguel de Cervantes Saavedra-Escritor espa\u00f1ol-(1547-1616)"
+  },
+  {
+    "ID":259,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Mendigo como soy, tambi\u00e9n soy pobre en agradecimientos.",
+    "AUTOR ":"William Shakespeare-Dramaturgo y poeta ingl\u00e9s-(1564-1616)"
+  },
+  {
+    "ID":260,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Si no se procede con mucho tiento es f\u00e1cil condenar a los desgraciados.",
+    "AUTOR ":"Joseph Joubert-Escritor y cr\u00edtico franc\u00e9s-(1754-1824)"
+  },
+  {
+    "ID":261,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"La miseria es una enfermedad que si no se cura a los treinta, se hace cr\u00f3nica.",
+    "AUTOR ":"Pitigrilli (Dino Segre)-Escritor italiano-(1895-1975)"
+  },
+  {
+    "ID":262,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"La pobreza debe ser amada porque te hace demostraci\u00f3n de los que te aman.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":263,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Que no te espante la pobreza; nadie vive tan pobre como cuando naci\u00f3.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":264,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Pasar de la pobreza a la opulencia no es m\u00e1s que cambiar de miseria.",
+    "AUTOR ":"Johan Gabriel Oxenstierna-Escritor sueco-(1750-1818)"
+  },
+  {
+    "ID":265,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"M\u00e1s abriga al pobre la costumbre de no tener abrigo.",
+    "AUTOR ":"Francisco G\u00f3mez de Quevedo-Villegas-Escritor espa\u00f1ol"
+  },
+  {
+    "ID":266,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"La pobreza no viene por la disminuci\u00f3n de las riquezas, sino por la multiplicaci\u00f3n de los deseos.",
+    "AUTOR ":"Plat\u00f3n (Aristocles)-Fil\u00f3sofo griego-(427-347 a. C.)"
+  },
+  {
+    "ID":267,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"El problema de ser pobre es que te ocupa todo el tiempo.",
+    "AUTOR ":"Willem de Kooning-Pintor estadounidense-(1904-1987)"
+  },
+  {
+    "ID":268,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"la vida, nadie puede responder ni de su misma vida, ni de su honradez, ni de sus afectos m\u00e1s \u00edntimos. Los n\u00e1ufragos no eligen puerto.",
+    "AUTOR ":"Jacinto Benavente-Dramaturgo espa\u00f1ol-(1866-1954)"
+  },
+  {
+    "ID":269,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"La pobreza, inmediatamente, pone al desnudo la vida material y la hace aborrecible, de ah\u00ed el \u00edmpetu indecible en pos de la vida ideal.",
+    "AUTOR ":"Victor-Marie Hugo-Escritor franc\u00e9s-(1802-1885)"
+  },
+  {
+    "ID":270,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Es una gran riqueza el saber ser pobre.",
+    "AUTOR ":"Andr\u00e9-Marie Ch\u00e9nier-Poeta franc\u00e9s-(1762-1794)"
+  },
+  {
+    "ID":271,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Solamente los pobres que saben de veras que son pobres padecen su pobreza.",
+    "AUTOR ":"Giovanni Papini-Escritor italiano-(1881-1956)"
+  },
+  {
+    "ID":272,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Si has sido alguna vez pobre de verdad, seguir\u00e1s si\u00e9ndolo en lo \u00edntimo de tu coraz\u00f3n durante el resto de tu vida.",
+    "AUTOR ":"Arnold Bennett-Novelista ingl\u00e9s-(1867-1931)"
+  },
+  {
+    "ID":273,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Los hombres se jactan de sus gastos, y los ricos de sus econom\u00edas.",
+    "AUTOR ":"Abel Bonnard-Escritor franc\u00e9s-(1883-1968)"
+  },
+  {
+    "ID":274,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"El m\u00e9todo m\u00e1s seguro de permanecer pobre es ser una persona franca.",
+    "AUTOR ":"Napole\u00f3n Bonaparte--Emperador franc\u00e9s"
+  },
+  {
+    "ID":275,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"Acomodarse con la pobreza es ser rico; se es pobre no por tener poco, sino por desear mucho.",
+    "AUTOR ":"-Luis Anneo S\u00e9neca-Fil\u00f3sofo latino"
+  },
+  {
+    "ID":276,
+    "CATEGORIA":"POBREZA",
+    "FRASE":"La pobreza medida seg\u00fan el fin de la naturaleza es una riqueza grande, pero la riqueza no delimitada es una gran pobreza.",
+    "AUTOR ":"Epicuro de Samos--Fil\u00f3sofo griego"
+  },
+  {
+    "ID":277,
+    "CATEGORIA":"PODER",
+    "FRASE":"Dondequiera que encuentro una criatura viviendo, hallo ansia de poder.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche-Fil\u00f3sofo y poeta alem\u00e1n-(1844-1900)"
+  },
+  {
+    "ID":278,
+    "CATEGORIA":"PODER",
+    "FRASE":"El que no puede lo que quiere, que quiera lo que pueda.",
+    "AUTOR ":"Jos\u00e9 Ortega y Gasset-Fil\u00f3sofo y escritor espa\u00f1ol-(1883-1955)"
+  },
+  {
+    "ID":279,
+    "CATEGORIA":"PODER",
+    "FRASE":"Dad todo el poder al hombre m\u00e1s virtuoso que exista, pronto le ver\u00e9is cambiar de actitud.",
+    "AUTOR ":"Herodoto de Halicarnaso-Historiador griego-(484-421 a. C.)"
+  },
+  {
+    "ID":280,
+    "CATEGORIA":"PODER",
+    "FRASE":"aunque sea a un hato de ganado.",
+    "AUTOR ":"Miguel de Cervantes Saavedra-Escritor espa\u00f1ol-(1547-1616)"
+  },
+  {
+    "ID":281,
+    "CATEGORIA":"PODER",
+    "FRASE":"El poder nunca es estable cuando es ilimitado.",
+    "AUTOR ":"Cayo Cornelio T\u00e1cito-Historiador y orador latino-(54-120)"
+  },
+  {
+    "ID":282,
+    "CATEGORIA":"PODER",
+    "FRASE":"Dif\u00edcil es templar en el poder a los que por ambici\u00f3n simularon ser probos.",
+    "AUTOR ":"Cayo Crispo Salustio-Historiador romano-(86-35 a. C.)"
+  },
+  {
+    "ID":283,
+    "CATEGORIA":"PODER",
+    "FRASE":"No hay poder, hay abuso de poder, nada m\u00e1s.",
+    "AUTOR ":"Henri de Montherlant-Novelista franc\u00e9s-(1896-1972)"
+  },
+  {
+    "ID":284,
+    "CATEGORIA":"PODER",
+    "FRASE":"El secreto del poder est\u00e1 en la voluntad.",
+    "AUTOR ":"Giuseppe Mazzini-Pol\u00edtico italiano-(1805-1872)"
+  },
+  {
+    "ID":285,
+    "CATEGORIA":"PODER",
+    "FRASE":"El poder no es como el dinero, que cuanto m\u00e1s tiene uno es m\u00e1s rico, sino como el manjar que la falta y la demas\u00eda enflaquecen al que come, pues est\u00e1 claro, si la gente se irrita con las demas\u00edas, el que gobierna no puede resistir a tantos.",
+    "AUTOR ":"-Juan de Mariana-Historiador y te\u00f3logo espa\u00f1ol"
+  },
+  {
+    "ID":286,
+    "CATEGORIA":"PODER",
+    "FRASE":"La posesi\u00f3n del poder por inmenso que sea, no da la ciencia del poder utilizado.",
+    "AUTOR ":"Honor\u00e9 de Balzac-Escritor franc\u00e9s-(1799-1850)"
+  },
+  {
+    "ID":287,
+    "CATEGORIA":"PODER",
+    "FRASE":"Es m\u00e1s f\u00e1cil no dar el poder a ciertos hombres que impedir que abusen de \u00e9l.",
+    "AUTOR ":"Romain Rolland-Escritor franc\u00e9s-(1866-1944)"
+  },
+  {
+    "ID":288,
+    "CATEGORIA":"PODER",
+    "FRASE":"S\u00f3lo es digno de su poder el que lo justifica d\u00eda a d\u00eda.",
+    "AUTOR ":"Dag Hammarskj\u00f6ld-Pol\u00edtico sueco-(1905-1961)"
+  },
+  {
+    "ID":289,
+    "CATEGORIA":"PODER",
+    "FRASE":"Todo poder es una violencia ejercida sobre la gente.",
+    "AUTOR ":"Mijail Bulgakov-Escritor ruso-(1891-1940)"
+  },
+  {
+    "ID":290,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"El pasado es una especie de l\u00e1mpara opuesta a la entrada del porvenir para disipar una parte de las tinieblas que la envuelven.",
+    "AUTOR ":"F\u00e9licit\u00e9-Robert de Lamennais-Sacerdote, pol\u00edtico y escritor franc\u00e9s-(1782-1854)"
+  },
+  {
+    "ID":291,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Miremos m\u00e1s que somos padres de nuestro porvenir que hijos de nuestro pasado.",
+    "AUTOR ":"Miguel de Unamuno y Jugo-Fil\u00f3sofo y escritor espa\u00f1ol-(1864-1936)"
+  },
+  {
+    "ID":292,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"El porvenir es un lugar c\u00f3modo para colocar los sue\u00f1os.",
+    "AUTOR ":"Anatole France (Anatole Thibault)-Escritor franc\u00e9s-(1844-1924)"
+  },
+  {
+    "ID":293,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Miramos muy bien gustosos al porvenir, porque con mucho gusto pondr\u00edamos a nuestro favor, mediante secretos deseos, los dudosos que flotan en su seno.",
+    "AUTOR ":"Johann Wolfgang von Goethe-Escritor y poeta alem\u00e1n-(1749-1832)"
+  },
+  {
+    "ID":294,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Creer que el porvenir no existe ya porque no lo conocemos a\u00fan, es como si afirm\u00e1ramos que un libro no termina porque no hemos llegado al final de su lectura.",
+    "AUTOR ":"Anatole France (Anatole Thibault)-Escritor franc\u00e9s-(1844-1924)"
+  },
+  {
+    "ID":295,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Siempre se espera demasiado en el porvenir, s\u00f3lo los pesimistas tienen sorpresas agradables.",
+    "AUTOR ":"-Jules Ars\u00e8ne Arnaud Claretie-Escritor y periodista franc\u00e9s"
+  },
+  {
+    "ID":296,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"No conozco otros medio de juzgar el porvenir que a partir del pasado.",
+    "AUTOR ":"Patrick Henry-Orador y pol\u00edtico estadounidense-(1736-1799)"
+  },
+  {
+    "ID":297,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Ciertamente que los mortales pueden saber muchas cosas vi\u00e9ndolas, pero no antes de verlas, y ning\u00fan adivino del porvenir sabe lo que suceder\u00e1.",
+    "AUTOR ":"S\u00f3focles de Colona-Poeta tr\u00e1gico griego-(496-406 a. C.)"
+  },
+  {
+    "ID":298,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"S\u00f3lo hay sufrimiento para el alma que se inquieta por el porvenir.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":299,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Cuando mires tu imagen en el espejo m\u00e1gico, evoca tu sombra de ni\u00f1o; quien sabe del pasado, sabe del porvenir.",
+    "AUTOR ":"Ram\u00f3n del Valle-Incl\u00e1n-Escritor espa\u00f1ol-(1869-1936)"
+  },
+  {
+    "ID":300,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"No hay que aferrarse de tal manera al presente que descuidemos por completo el porvenir.",
+    "AUTOR ":"Pit\u00e1goras de Samos-Fil\u00f3sofo griego-(571-497 a. C.)"
+  },
+  {
+    "ID":301,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Se puede ver el porvenir en las cosas pret\u00e9ritas.",
+    "AUTOR ":"Jean Rotrou-Poeta dram\u00e1tico franc\u00e9s-(1609-1650)"
+  },
+  {
+    "ID":302,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Pasado y porvenir gobiernan el mayor n\u00famero de nuestros dolores y son infinitamente largos.",
+    "AUTOR ":"Arthur Schopenhauer-Fil\u00f3sofo alem\u00e1n-(1788-1860)"
+  },
+  {
+    "ID":303,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"El pasado es el mejor espejo en el que se refleja el porvenir.",
+    "AUTOR ":"Porfirio D\u00edaz-Presidente de M\u00e9xico-(1830-1915)"
+  },
+  {
+    "ID":304,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"No se puede saber hoy de qu\u00e9 estar\u00e1 formado el d\u00eda de ma\u00f1ana.",
+    "AUTOR ":"Sim\u00f3nides de Ceos-Poeta griego-(556-468 a. C.)"
+  },
+  {
+    "ID":305,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"cambiado, no cambiar\u00e1 el porvenir, los que me seguir\u00e1n ser\u00e1n semejantes a los que me precedieron.",
+    "AUTOR ":"Mika Waltari-Novelista finland\u00e9s-(1908-1979)"
+  },
+  {
+    "ID":306,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Cada cual es su propia parca e hila su porvenir.",
+    "AUTOR ":"-Joseph Joubert-Escritor y cr\u00edtico franc\u00e9s"
+  },
+  {
+    "ID":307,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"El porvenir pertenece a los innovadores.",
+    "AUTOR ":"Andr\u00e9 Gide-Escritor franc\u00e9s-(1869-1951)"
+  },
+  {
+    "ID":308,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"El m\u00e1s oculto de todos los porvenires es el que nunca debe llegar.",
+    "AUTOR ":"Andr\u00e9 Gide-Escritor franc\u00e9s-(1869-1951)"
+  },
+  {
+    "ID":309,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Para obrar bien hay que conocer el porvenir; cuando sea el \u00fanico en saberlo, creo que podr\u00e9 cambiar la vida.",
+    "AUTOR ":"Andr\u00e9 Gide-Escritor franc\u00e9s-(1869-1951)"
+  },
+  {
+    "ID":310,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"El futuro es preparar al hombre para lo que no ha sido nunca.",
+    "AUTOR ":"Paul Val\u00e9ry-Poeta franc\u00e9s-(1871-1945)"
+  },
+  {
+    "ID":311,
+    "CATEGORIA":"PORVENIR",
+    "FRASE":"Solamente en el instante en que el hombre se encuentra frente a su conciencia, oye salir de los labios de su pasado el augurio de su porvenir.",
+    "AUTOR ":"-Annie Besant-Escritora inglesa"
+  },
+  {
+    "ID":312,
+    "CATEGORIA":"PR\u00c1CTICA",
+    "FRASE":"Los que se enamoran de la pr\u00e1ctica prescindiendo de la ciencia son como los pilotos que toman un nav\u00edo sin tim\u00f3n ni br\u00fajula, de forma que nunca tienen seguridad de la ruta seguida. La pr\u00e1ctica",
+    "AUTOR ":"-debe ser edificada siempre sobre una buena teor\u00eda.-Leonardo da Vinci"
+  },
+  {
+    "ID":313,
+    "CATEGORIA":"PR\u00c1CTICA",
+    "FRASE":"debe ser edificada siempre sobre una buena teor\u00eda.",
+    "AUTOR ":"Leonardo da Vinci-Pintor, escultor y arquitecto italiano-(1452-1519)"
+  },
+  {
+    "ID":314,
+    "CATEGORIA":"PR\u00c1CTICA",
+    "FRASE":"Es muy f\u00e1cil percibir lo imposible cuando no se trata de practicarlo uno mismo.",
+    "AUTOR ":"Jean-Jacques Rousseau-Escritor y fil\u00f3sofo franc\u00e9s-(1712-1778)"
+  },
+  {
+    "ID":315,
+    "CATEGORIA":"PR\u00c1CTICA",
+    "FRASE":"El \u00fanico camino de saber si los planes son buenos o malos es poni\u00e9ndolos en pr\u00e1ctica.",
+    "AUTOR ":"Harold Lamb-Historiador estadounidense-(1893-1962)"
+  },
+  {
+    "ID":316,
+    "CATEGORIA":"PR\u00c1CTICA",
+    "FRASE":"La felicidad se adquiere como la fuerza muscular, por ejercicio y continua pr\u00e1ctica.",
+    "AUTOR ":"Stephen Crane-Escritor estadounidense-(1871-1900)"
+  },
+  {
+    "ID":317,
+    "CATEGORIA":"PR\u00c1CTICA",
+    "FRASE":"La pr\u00e1ctica es un maestro excepcional.",
+    "AUTOR ":"Plinio El Joven-Fil\u00f3sofo latino-(61-113)"
+  },
+  {
+    "ID":318,
+    "CATEGORIA":"PR\u00c1CTICA",
+    "FRASE":"La pr\u00e1ctica deber\u00eda ser producto de la reflexi\u00f3n, no al contrario.",
+    "AUTOR ":"-Herman Hesse-Escritor alem\u00e1n"
+  },
+  {
+    "ID":319,
+    "CATEGORIA":"PREPARACI\u00d3N",
+    "FRASE":"El verdadero valor consiste en prevenir todos los peligros y despreciarlos cuando llegan a hacerse inevitables.",
+    "AUTOR ":"F\u00e9nelon (Fran\u00e7ois de Salignac de la Mothe)-Escritor franc\u00e9s-"
+  },
+  {
+    "ID":320,
+    "CATEGORIA":"PREPARACI\u00d3N",
+    "FRASE":"El hombre bien preparado para la lucha, ya ha conseguido medio triunfo.",
+    "AUTOR ":"Miguel de Cervantes Saavedra-Escritor espa\u00f1ol-(1547-1616)"
+  },
+  {
+    "ID":321,
+    "CATEGORIA":"PREPARACI\u00d3N",
+    "FRASE":"Filosofar no es otra cosa que prepararse a morir.",
+    "AUTOR ":"Michel Eyquem de Montaigne-Fil\u00f3sofo franc\u00e9s-(1533-1592)"
+  },
+  {
+    "ID":322,
+    "CATEGORIA":"PREPARACI\u00d3N",
+    "FRASE":"resultado de una lenta preparaci\u00f3n.",
+    "AUTOR ":"Publilio Siro-Poeta latino-(Siglo I a. C.)"
+  },
+  {
+    "ID":323,
+    "CATEGORIA":"PREPARACI\u00d3N",
+    "FRASE":"La abeja constituye art\u00edsticamente de cera los seis lados de su alveolo y despu\u00e9s lo llena de miel. El alveolo es \u00e9l verso, la miel es la poes\u00eda.",
+    "AUTOR ":"V\u00edctor Hugo-Escritor franc\u00e9s-(1802-1885)"
+  },
+  {
+    "ID":324,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"El presente es una poderosa divinidad.",
+    "AUTOR ":"Johann Wolfgang von Goethe-Escritor y poeta alem\u00e1n-(1749-1832)"
+  },
+  {
+    "ID":325,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"No pensar en s\u00ed mismo y en el presente, es siempre una fuente de grandes errores, principalmente en pol\u00edtica.",
+    "AUTOR ":"Jean de la Bruy\u00e8re-Escritor moralista franc\u00e9s-(1645-1696)"
+  },
+  {
+    "ID":326,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"Los ni\u00f1os no tienen pasado ni futuro, por eso gozan del presente, cosa que rara vez ocurre en nosotros.",
+    "AUTOR ":"Jean de la Bruy\u00e8re-Escritor moralista franc\u00e9s-(1645-1696)"
+  },
+  {
+    "ID":327,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"El presente es el \u00fanico bien que el hombre en realidad posee.",
+    "AUTOR ":"Jean-Jacques Rousseau--Escritor y fil\u00f3sofo franc\u00e9s"
+  },
+  {
+    "ID":328,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"Coge el d\u00eda presente y f\u00edate lo menos posible del ma\u00f1ana.",
+    "AUTOR ":"Quinto Horacio Flaco-Poeta latino-(65-8 a. C.)"
+  },
+  {
+    "ID":329,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"El presente es un paso para el porvenir que debe ocupar el puesto del pasado.",
+    "AUTOR ":"Victor-Marie Hugo-Escritor franc\u00e9s-(1802-1885)"
+  },
+  {
+    "ID":330,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"La verdad ser\u00e1 cualquiera. Lo preciso es el instante que se va.",
+    "AUTOR ":"Manuel Machado-Poeta espa\u00f1ol-(1874-1947)"
+  },
+  {
+    "ID":331,
+    "CATEGORIA":"PRESENTE",
+    "FRASE":"Bajo los nombres de previsi\u00f3n y de traici\u00f3n, el futuro y el pasado, que son perspectivas imaginarias, dominan y limitan el presente.",
+    "AUTOR ":"Paul Val\u00e9ry--Poeta franc\u00e9s"
+  },
+  {
+    "ID":332,
+    "CATEGORIA":"RISA",
+    "FRASE":"La felicidad de re\u00edr nunca se le ha concedido al hombre antes del cuadrag\u00e9simo d\u00eda despu\u00e9s de su nacimiento, y en tal caso es considerado como un milagro de precocidad.",
+    "AUTOR ":"Plinio El Joven (Cayo Plinio Cecilio Secundo)-Pol\u00edtico y escritor latino-(61-113)"
+  },
+  {
+    "ID":333,
+    "CATEGORIA":"RISA",
+    "FRASE":"No re\u00edr es una dieta rigurosa que nuestro organismo no nos permite.",
+    "AUTOR ":"Jean-Baptiste-Alphonse Karr-Escritor y periodista franc\u00e9s-(1808-1890)"
+  },
+  {
+    "ID":334,
+    "CATEGORIA":"RISA",
+    "FRASE":"No hay d\u00eda m\u00e1s perdido que aqu\u00e9l en que no hemos re\u00eddo.",
+    "AUTOR ":"Charles Chaplin-Actor y director cinematogr\u00e1fico ingl\u00e9s-(1889-1977)"
+  },
+  {
+    "ID":335,
+    "CATEGORIA":"RISA",
+    "FRASE":"El que r\u00ede por cualquier cosa es tan necio como el que llora por todo.",
+    "AUTOR ":"Baltasar Graci\u00e1n y Morales-Jesuita y escritor espa\u00f1ol-(1601-1658)"
+  },
+  {
+    "ID":336,
+    "CATEGORIA":"RISA",
+    "FRASE":"Si se me diera la oportunidad de hacer un regalo a la siguiente generaci\u00f3n, ser\u00eda la capacidad de re\u00edrse cada cual de s\u00ed mismo.",
+    "AUTOR ":"Charles Monroe Schulz-Artista gr\u00e1fico estadounidense-(1922-2000)"
+  },
+  {
+    "ID":337,
+    "CATEGORIA":"RISA",
+    "FRASE":"Cada vez que un hombre r\u00ede, a\u00f1ade un par de d\u00edas a su vida.",
+    "AUTOR ":"Curcio Malaparte (Curzio Suckert)-Escritor italiano-(1898-1957)"
+  },
+  {
+    "ID":338,
+    "CATEGORIA":"RISA",
+    "FRASE":"El hombre sufre tan pavorosamente en el mundo, que se ha visto obligado a inventar la risa.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche-Fil\u00f3sofo y poeta alem\u00e1n-(1844-1900)"
+  },
+  {
+    "ID":339,
+    "CATEGORIA":"RISA",
+    "FRASE":"Si es posible, debe hacerse re\u00edr hasta a los muertos.",
+    "AUTOR ":"-Leonardo da Vinci-Pintor, escultor y arquitecto italiano"
+  },
+  {
+    "ID":340,
+    "CATEGORIA":"RISA",
+    "FRASE":"Conviene re\u00edrse antes de ser felices, por miedo de morir sin haber re\u00eddo.",
+    "AUTOR ":"Jean de la Bruy\u00e8re-Escritor moralista franc\u00e9s-(1645-1696)"
+  },
+  {
+    "ID":341,
+    "CATEGORIA":"RISA",
+    "FRASE":"No pretendas jam\u00e1s hacer re\u00edr; porque adem\u00e1s de ser el verdadero medio de caer en el mundo de obrar del vulgo, te disminuye el respeto y la estimaci\u00f3n que se te debe.",
+    "AUTOR ":"Epicteto de Frigia-Fil\u00f3sofo estoico grecolatino-(50-135)"
+  },
+  {
+    "ID":342,
+    "CATEGORIA":"RISA",
+    "FRASE":"No te r\u00edas mucho ni por cualquier cosa ni estrepitosamente.",
+    "AUTOR ":"Epicteto de Frigia-Fil\u00f3sofo estoico grecolatino-(50-135)"
+  },
+  {
+    "ID":343,
+    "CATEGORIA":"RISA",
+    "FRASE":"Si quer\u00e9is estudiar a un hombre no prest\u00e9is atenci\u00f3n al modo en que calla, o habla, o llora, ni siquiera en que es conmovido por las nobles ideas. Miradle m\u00e1s bien cuando r\u00ede.",
+    "AUTOR ":"Fedor Mijailovich Dostoievski-Escritor ruso-(1821-1881)"
+  },
+  {
+    "ID":344,
+    "CATEGORIA":"RISA",
+    "FRASE":"El hombre se distingue de todas las dem\u00e1s criaturas por la facultad de re\u00edr.",
+    "AUTOR ":"Joseph Addison-Escritor y pol\u00edtico ingl\u00e9s-(1672-1719)"
+  },
+  {
+    "ID":345,
+    "CATEGORIA":"RISA",
+    "FRASE":"Cuando el hombre se pone a re\u00edr a carcajadas, supera a todos los animales en vulgaridad.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche--Fil\u00f3sofo y poeta alem\u00e1n"
+  },
+  {
+    "ID":346,
+    "CATEGORIA":"RISA",
+    "FRASE":"No hagas re\u00edr hasta el punto de dar motivo a m\u00e1s risa.",
+    "AUTOR ":"Her\u00e1clito de \u00c9feso-Fil\u00f3sofo griego-(576-480 a. C.)"
+  },
+  {
+    "ID":347,
+    "CATEGORIA":"RISA",
+    "FRASE":"Ha completado un \u00e9xito el que ha vivido bien, re\u00eddo a menudo y amado mucho.",
+    "AUTOR ":"Elbert Hubbard-Escritor estadounidense-(1856-1915)"
+  },
+  {
+    "ID":348,
+    "CATEGORIA":"RISA",
+    "FRASE":"Re\u00edrse de todo es propio de tontos, pero no re\u00edrse de nada lo es de est\u00fapidos.",
+    "AUTOR ":"Erasmo de R\u00f3tterdam-Fil\u00f3sofo holand\u00e9s-(1466-1536)"
+  },
+  {
+    "ID":349,
+    "CATEGORIA":"RISA",
+    "FRASE":"La risa es en ant\u00eddoto del enojo.",
+    "AUTOR ":"Jean F. de la Harpe-Escritor franc\u00e9s-(1739-1803)"
+  },
+  {
+    "ID":350,
+    "CATEGORIA":"RISA",
+    "FRASE":"Es necesario re\u00edr y filosofar, tratar los asuntos de casa y mantener las dem\u00e1s relaciones y nunca descansar de proferir las sentencias de la recta filosof\u00eda.",
+    "AUTOR ":"Epicuro de Samos-Fil\u00f3sofo griego-(341-270 a. C.)"
+  },
+  {
+    "ID":351,
+    "CATEGORIA":"RISA",
+    "FRASE":"Dicen que me burlo de todo y me r\u00edo de todo, porque me burlo de ellos y me r\u00edo de ellos, y ellos creen que es una l\u00f3gica sutil.",
+    "AUTOR ":"Jacinto Benavente-Dramaturgo espa\u00f1ol-(1866-1954)"
+  },
+  {
+    "ID":352,
+    "CATEGORIA":"RISA",
+    "FRASE":"No hay nada m\u00e1s dif\u00edcil que saber cu\u00e1ndo debe re\u00edrse y de lo que se debe re\u00edr.",
+    "AUTOR ":"Jacinto Benavente-Dramaturgo espa\u00f1ol-(1866-1954)"
+  },
+  {
+    "ID":353,
+    "CATEGORIA":"RISA",
+    "FRASE":"La risa es salud y alegr\u00eda, y la burla es crueldad y amargura.",
+    "AUTOR ":"Jacinto Benavente-Dramaturgo espa\u00f1ol-(1866-1954)"
+  },
+  {
+    "ID":354,
+    "CATEGORIA":"RISA",
+    "FRASE":"Cuanto m\u00e1s capaz es el hombre de ser completamente serio, tanto m\u00e1s cordialmente puede re\u00edr.",
+    "AUTOR ":"Arthur Schopenhauer-Fil\u00f3sofo alem\u00e1n-(1788-1860)"
+  },
+  {
+    "ID":355,
+    "CATEGORIA":"RISA",
+    "FRASE":"La risa va unida casi siempre a la burla.",
+    "AUTOR ":"Marco Fabio Quintiliano-Escritor latino-(35-95)"
+  },
+  {
+    "ID":356,
+    "CATEGORIA":"RISA",
+    "FRASE":"La causa de la risa no es otra cosa mas que la s\u00fabita percepci\u00f3n de la incongruencia de un concepto y el objeto real.",
+    "AUTOR ":"Arthur Schopenhauer-Fil\u00f3sofo alem\u00e1n-(1788-1860)"
+  },
+  {
+    "ID":357,
+    "CATEGORIA":"RISA",
+    "FRASE":"Hacer re\u00edr es hacer olvidar, y es un bienhechor el que en el mundo puede distribuir el olvido.",
+    "AUTOR ":"Victor-Marie Hugo-Escritor franc\u00e9s-(1802-1885)"
+  },
+  {
+    "ID":358,
+    "CATEGORIA":"RISA",
+    "FRASE":"cierta superioridad sobre \u00e9stos.",
+    "AUTOR ":"Giacomo Leopardi-Escritor italiano-(1798-1837)"
+  },
+  {
+    "ID":359,
+    "CATEGORIA":"RISA",
+    "FRASE":"Un hombre que r\u00ede nunca ser\u00e1 peligroso.",
+    "AUTOR ":"Lawrence Sterne-Escritor irland\u00e9s-(1713-1768)"
+  },
+  {
+    "ID":360,
+    "CATEGORIA":"RISA",
+    "FRASE":"No hay mayor enemigo de la risa que la emoci\u00f3n.",
+    "AUTOR ":"Henri Bergson-Fil\u00f3sofo franc\u00e9s-(1859-1941)"
+  },
+  {
+    "ID":361,
+    "CATEGORIA":"RISA",
+    "FRASE":"Nos re\u00edmos siempre que nuestra atenci\u00f3n se desv\u00eda hacia el f\u00edsico de una persona, cuando debiera concentrarse en su aspecto moral.",
+    "AUTOR ":"Henri Bergson-Fil\u00f3sofo franc\u00e9s-(1859-1941)"
+  },
+  {
+    "ID":362,
+    "CATEGORIA":"RISA",
+    "FRASE":"La risa es la distancia m\u00e1s corta entre dos personas.",
+    "AUTOR ":"V\u00edctor Borge-Escritor espa\u00f1ol-(1909-2000)"
+  },
+  {
+    "ID":363,
+    "CATEGORIA":"RISA",
+    "FRASE":"A nadie se le dio veneno en risa.",
+    "AUTOR ":"Lope de Vega--(Lope F\u00e9lix de Vega Carpio)"
+  },
+  {
+    "ID":364,
+    "CATEGORIA":"RISA",
+    "FRASE":"La risa no es m\u00e1s que la gloria que nace de nuestra superioridad.",
+    "AUTOR ":"Thomas Hobbes-Fil\u00f3sofo ingl\u00e9s-(1588-1679)"
+  },
+  {
+    "ID":365,
+    "CATEGORIA":"RISA",
+    "FRASE":"La risa m\u00e1s agradable es aqu\u00e9lla a la que nos entregamos a costa de nuestros enemigos.",
+    "AUTOR ":"S\u00f3focles de Colona--Poeta tr\u00e1gico griego"
+  },
+  {
+    "ID":366,
+    "CATEGORIA":"RISA",
+    "FRASE":"Re\u00edmos y re\u00edmos porque la serenidad fue siempre amiga de los impostores.",
+    "AUTOR ":"Ugo Foscolo-Poeta italiano-(1778-1827)"
+  },
+  {
+    "ID":367,
+    "CATEGORIA":"RISA",
+    "FRASE":"Grande y terrible es, entre todos los hombres, el poder de la risa, contra el que nadie, en su conciencia, se siente bien defendido.",
+    "AUTOR ":"-Pierre-Agustin Caron de-Beaumarchais"
+  },
+  {
+    "ID":368,
+    "CATEGORIA":"RISA",
+    "FRASE":"Si la filosof\u00eda tiene alg\u00fan valor, es el de ense\u00f1ar al hombre a re\u00edrse de s\u00ed mismo.",
+    "AUTOR ":"Lin Yutang-Escritor chino-(1895-1976)"
+  },
+  {
+    "ID":369,
+    "CATEGORIA":"RISA",
+    "FRASE":"Huye de los rostros graves que no saben re\u00edr y de los esp\u00edritus que no entienden de iron\u00edas.",
+    "AUTOR ":"-Ricardo Le\u00f3n-Escritor espa\u00f1ol"
+  },
+  {
+    "ID":370,
+    "CATEGORIA":"SABER",
+    "FRASE":"bien, por eso yerran muchas veces y poco o ning\u00fan fruto logran.",
+    "AUTOR ":"Tom\u00e1s de Kempis (Thomas Hemerken de Kempen)-M\u00edstico alem\u00e1n-(1397-1471)"
+  },
+  {
+    "ID":371,
+    "CATEGORIA":"SABER",
+    "FRASE":"No podemos saber si lo que llamamos saber es, en verdad, saber y lo que llamamos no saber es, en verdad, saber.",
+    "AUTOR ":"Chuang Tse (Chuang Chou)-M\u00edstico y tratadista tao\u00edsta-(350-275 a. C.)"
+  },
+  {
+    "ID":372,
+    "CATEGORIA":"SABER",
+    "FRASE":"No saber es una disculpa, pero no una justificaci\u00f3n, puesto que se puede aprender.",
+    "AUTOR ":"Eliphas L\u00e9vi (Alphonse Louis Constant)-Escritor franc\u00e9s-(1816-1875)"
+  },
+  {
+    "ID":373,
+    "CATEGORIA":"SABER",
+    "FRASE":"Saber y saberlo demostrar, es saber dos veces.",
+    "AUTOR ":"Baltasar Graci\u00e1n y Morales-Jesuita y escritor espa\u00f1ol-(1601-1658)"
+  },
+  {
+    "ID":374,
+    "CATEGORIA":"SABER",
+    "FRASE":"Cuando se sabe una cosa, sostener que se sabe, y cuando no se sabe, admitir que no se sabe; \u00e9ste es el verdadero conocimiento.",
+    "AUTOR ":"Confucio (Kung-Fu-tze)-Fil\u00f3sofo y estadista chino-(551-479 a. C.)"
+  },
+  {
+    "ID":375,
+    "CATEGORIA":"SABER",
+    "FRASE":"Hay muchas cosas que no quiero saber. La sabidur\u00eda marca l\u00edmites hasta al conocimiento.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche-Fil\u00f3sofo y poeta alem\u00e1n-(1844-1900)"
+  },
+  {
+    "ID":376,
+    "CATEGORIA":"SABER",
+    "FRASE":"que los dem\u00e1s ignoran. La verdadera ciencia, de igual modo, est\u00e1 m\u00e1s all\u00e1 de la ciencia.",
+    "AUTOR ":"Remy de Gourmont-Poeta, novelista y cr\u00edtico franc\u00e9s-(1858-1915)"
+  },
+  {
+    "ID":377,
+    "CATEGORIA":"SABER",
+    "FRASE":"Vale m\u00e1s saber algo acerca de todo que saberlo todo acerca de una sola cosa.",
+    "AUTOR ":"Blaise Pascal-Matem\u00e1tico, f\u00edsico y fil\u00f3sofo franc\u00e9s-(1623-1662)"
+  },
+  {
+    "ID":378,
+    "CATEGORIA":"SABER",
+    "FRASE":"de quien sabe purifican y el alma de que se eleva, se regocija. Es mejor no saber nada que saber mucho a medias.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche-Fil\u00f3sofo y poeta alem\u00e1n-(1844-1900)"
+  },
+  {
+    "ID":379,
+    "CATEGORIA":"SABER",
+    "FRASE":"El saber confiere a los hombres poderes inmensos; el que sabe est\u00e1 siempre en capacidad de dominar al que no sabe.",
+    "AUTOR ":"Alberto Masferrer-Pol\u00edtico y escritor salvadore\u00f1o-(1865-1932)"
+  },
+  {
+    "ID":380,
+    "CATEGORIA":"SABER",
+    "FRASE":"Hasta el saber cansa, cuando es el saber por oficio.",
+    "AUTOR ":"Sor Juana In\u00e9s de la Cruz-(Juana de Asbaje)-Poetisa mexicana"
+  },
+  {
+    "ID":381,
+    "CATEGORIA":"SABER",
+    "FRASE":"Mejor es saber poco con humildad y poco entender, que grandes tesoros de la ciencia con vano entendimiento.",
+    "AUTOR ":"Tom\u00e1s de Kempis (Thomas Hemerken de Kempen)--M\u00edstico alem\u00e1n"
+  },
+  {
+    "ID":382,
+    "CATEGORIA":"SABER",
+    "FRASE":"A quien le da\u00f1a el saber, homicida es de s\u00ed mismo.",
+    "AUTOR ":"Pedro Calder\u00f3n de la Barca-Dramaturgo espa\u00f1ol-(1600-1681)"
+  },
+  {
+    "ID":383,
+    "CATEGORIA":"SABER",
+    "FRASE":"No sabemos ni un cienmilmillon\u00e9simo de nada.",
+    "AUTOR ":"Thomas Alva Edison-Cient\u00edfico estadounidense-(1847-1931)"
+  },
+  {
+    "ID":384,
+    "CATEGORIA":"SABER",
+    "FRASE":"No hay tesoro m\u00e1s grande para el hombre que una inteligencia llena de saber.",
+    "AUTOR ":"S\u00f3focles de Colona-Poeta tr\u00e1gico griego-(496-406 a. C.)"
+  },
+  {
+    "ID":385,
+    "CATEGORIA":"SABER",
+    "FRASE":"El saber se convierte siempre en dudas si no est\u00e1 fundamentado en \u00faltima instancia por la fe. La fe y la oraci\u00f3n son las que sostienen a toda la humanidad.",
+    "AUTOR ":"Fedor Mijailovich Dostoievski-Escritor ruso-(1821-1881)"
+  },
+  {
+    "ID":386,
+    "CATEGORIA":"SABER",
+    "FRASE":"El saber, despu\u00e9s de la virtud, es ciertamente lo que eleva a un hombre a mayor altura que otro.",
+    "AUTOR ":"Joseph Addison-Escritor y pol\u00edtico ingl\u00e9s-(1672-1719)"
+  },
+  {
+    "ID":387,
+    "CATEGORIA":"SABER",
+    "FRASE":"Al saber no se le puede da\u00f1ar; el tiempo no lo borra, y nada lo puede aminorar.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":388,
+    "CATEGORIA":"SABER",
+    "FRASE":"Un hombre no es m\u00e1s que lo que sabe.",
+    "AUTOR ":"Francis Bacon-Fil\u00f3sofo y estadista ingl\u00e9s-(1561-1626)"
+  },
+  {
+    "ID":389,
+    "CATEGORIA":"SABER",
+    "FRASE":"S\u00f3lo los que saben poco quieren mostrar en todas partes su saber.",
+    "AUTOR ":"Benito Jer\u00f3nimo Feij\u00f3o y-Montenegro-Escritor espa\u00f1ol"
+  },
+  {
+    "ID":390,
+    "CATEGORIA":"SABER",
+    "FRASE":"Saber lo que todo mundo sabe es tanto como no saber nada.",
+    "AUTOR ":"-Remy de Gourmont-Poeta, novelista y cr\u00edtico franc\u00e9s"
+  },
+  {
+    "ID":391,
+    "CATEGORIA":"SABER",
+    "FRASE":"El saber ense\u00f1a m\u00e1s es un a\u00f1o que la experiencia en veinte.",
+    "AUTOR ":"Roger Ascham-Fil\u00f3logo y escritor ingl\u00e9s-(1515-1568)"
+  },
+  {
+    "ID":392,
+    "CATEGORIA":"SABER",
+    "FRASE":"Un hombre no puede saberlo todo, pero cada cual ha de tener alguna cosa que conoce a conciencia.",
+    "AUTOR ":"Gustav Freytag-Poeta y novelista alem\u00e1n-(1816-1895)"
+  },
+  {
+    "ID":393,
+    "CATEGORIA":"SABER",
+    "FRASE":"Todo el mundo desea saber, pero nadie quiere pagar el precio.",
+    "AUTOR ":"D\u00e9cimo Junio Juvenal-Poeta sat\u00edrico romano-(55-135)"
+  },
+  {
+    "ID":394,
+    "CATEGORIA":"SABER",
+    "FRASE":"Cu\u00e1nto m\u00e1s se sabe, m\u00e1s se desea aprender. Con el saber crece paralelamente la sensaci\u00f3n de no saber o, mejor dicho, de saber que no se sabe.",
+    "AUTOR ":"Friedrich von Schlegel-Escritor alem\u00e1n-(1772-1829)"
+  },
+  {
+    "ID":395,
+    "CATEGORIA":"SABER",
+    "FRASE":"Saber mucho no siempre es un bien y muchas veces es un mal.",
+    "AUTOR ":"Joost van den Vondel-Escritor holand\u00e9s-(1587-1679)"
+  },
+  {
+    "ID":396,
+    "CATEGORIA":"SABER",
+    "FRASE":"El saber un poco de todo no da\u00f1a cuando lo poco es bueno; y s\u00ed cuando es malo.",
+    "AUTOR ":"Jos\u00e9 Mar\u00eda de Pereda-Escritor espa\u00f1ol-(1833-1906)"
+  },
+  {
+    "ID":397,
+    "CATEGORIA":"SABER",
+    "FRASE":"Nunca pienses que lo sabes todo. Por muy alto que te valores, ten siempre el coraje de decirte a ti mismo: Soy un ignorante.",
+    "AUTOR ":"Ivan Petrovich Pavlov-Fisi\u00f3logo ruso-(1849-1936)"
+  },
+  {
+    "ID":398,
+    "CATEGORIA":"SABER",
+    "FRASE":"Hace falta mucho para poder ocultar que nada se sabe.",
+    "AUTOR ":"Marie von Ebner-Eschenbach-Escritora austriaca-"
+  },
+  {
+    "ID":399,
+    "CATEGORIA":"SABER",
+    "FRASE":"Es en nosotros mismos donde debemos buscar lo que a\u00fan no sabemos, porque nunca nos ha venido nada de otro mundo.",
+    "AUTOR ":"Maurice Maeterlinck-Escritor belga-(1862-1949)"
+  },
+  {
+    "ID":400,
+    "CATEGORIA":"SABER",
+    "FRASE":"Porque s\u00e9 demasiadas cosas, y por mi poder, nadie osa contradecirme; pero lo que aumenta el saber, aumenta el dolor, y por eso soy tan desgraciado.",
+    "AUTOR ":"Mika Waltari-Novelista finland\u00e9s-(1908-1979)"
+  },
+  {
+    "ID":401,
+    "CATEGORIA":"SABER",
+    "FRASE":"Todo lo que sabemos es infinitamente menos que lo que ignoramos.",
+    "AUTOR ":"William Harvey-M\u00e9dico ingl\u00e9s-(1578-1657)"
+  },
+  {
+    "ID":402,
+    "CATEGORIA":"SABER",
+    "FRASE":"La \u00fanica cosa que s\u00e9, es que no s\u00e9 nada; y esto cabalmente me distingue de los dem\u00e1s fil\u00f3sofos, que creen saberlo todo.",
+    "AUTOR ":"S\u00f3crates-Fil\u00f3sofo griego-(469-399 a. C.)"
+  },
+  {
+    "ID":403,
+    "CATEGORIA":"SABER",
+    "FRASE":"No soy bastante joven para saberlo todo.",
+    "AUTOR ":"-James Matthew Barrie-Escritor escoc\u00e9s"
+  },
+  {
+    "ID":404,
+    "CATEGORIA":"SABER",
+    "FRASE":"En los d\u00edas actuales muchos hombres doctos dicen y escriben m\u00e1s de lo que saben; en los tiempos pasados, algunos de ellas sab\u00edan m\u00e1s de lo que escrib\u00edan.",
+    "AUTOR ":"Matthias Claudius--Peta alem\u00e1n"
+  },
+  {
+    "ID":405,
+    "CATEGORIA":"SABER",
+    "FRASE":"\u00a1\u00c9sta es mi amargura! Ojal\u00e1 supiera un poco m\u00e1s, o much\u00edsimo menos.",
+    "AUTOR ":"Henry Parker--Pintor ingl\u00e9s"
+  },
+  {
+    "ID":406,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"M\u00e1s veces descubrimos nuestra sabidur\u00eda con nuestros disparates que con nuestra ilustraci\u00f3n.",
+    "AUTOR ":"Oscar Wilde (Fingal O\u2019Flahertie Wills)-Dramaturgo, poeta y novelista irland\u00e9s-"
+  },
+  {
+    "ID":407,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"La suma de la sabidur\u00eda consiste en no haber perdido el tiempo dedicado al trabajo.",
+    "AUTOR ":"Ralph Waldo Emerson-Fil\u00f3sofo y ensayista estadounidense-(1803-1882)"
+  },
+  {
+    "ID":408,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"Saber que se sabe lo que se sabe y saber que no se sabe lo que no se sabe: sabidur\u00eda.",
+    "AUTOR ":"Jean-Baptiste-Alphonse Karr-Escritor franc\u00e9s-(1808-1890)"
+  },
+  {
+    "ID":409,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"hacerse, y virtud, hacerlo sin dilaci\u00f3n.",
+    "AUTOR ":"Arturo Ortega Blake-Economista y escritor mexicano--1948"
+  },
+  {
+    "ID":410,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"La sabidur\u00eda es un adorno en la prosperidad y un refugio en la adversidad.",
+    "AUTOR ":"Arist\u00f3teles de Estagira-Fil\u00f3sofo griego-(384-322 a. C.)"
+  },
+  {
+    "ID":411,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"Dios espera hasta que el hombre se hace de nuevo ni\u00f1o en la sabidur\u00eda.",
+    "AUTOR ":"Rabindranath Tagore-Fil\u00f3sofo y poeta hind\u00fa-(1861-1941)"
+  },
+  {
+    "ID":412,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"En todo gran talento hay siempre un poco de locura.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":413,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"Grande es la sabidur\u00eda e infinito es su valor. Es la m\u00e1s alta victoria del hombre.",
+    "AUTOR ":"Thomas Carlyle-Escritor escoc\u00e9s-(1795-1881)"
+  },
+  {
+    "ID":414,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"La sabidur\u00eda no es otra cosa que la ciencia de la felicidad.",
+    "AUTOR ":"Denis Diderot-Fil\u00f3sofo franc\u00e9s-(1713-1784)"
+  },
+  {
+    "ID":415,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"La sabidur\u00eda, despu\u00e9s de todo, no es otra cosa que la experiencia.",
+    "AUTOR ":"Marun Abbud-Escritor liban\u00e9s-(1886-1962)"
+  },
+  {
+    "ID":416,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"La sabidur\u00eda consiste en perseguir los mejores fines con los mejores medios.",
+    "AUTOR ":"Francis Hutchesen-Fil\u00f3sofo holand\u00e9s-"
+  },
+  {
+    "ID":417,
+    "CATEGORIA":"SABIDUR\u00cdA",
+    "FRASE":"Sabidur\u00eda: amar el vino, la belleza, la divina primavera; esto basta, lo dem\u00e1s sobra.",
+    "AUTOR ":"The\u00f3dore de Banville-Poeta franc\u00e9s-"
+  },
+  {
+    "ID":418,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"No creo en ning\u00fan sabio hasta que le he o\u00eddo decir tres veces: Lo dudo, dos veces: No lo s\u00e9.",
+    "AUTOR ":"Jean-Baptiste-Alphonse Karr-Escritor y periodista franc\u00e9s-(1808-1890)"
+  },
+  {
+    "ID":419,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"Odio al sabio que no lo es para \u00e9l mismo.",
+    "AUTOR ":"Eur\u00edpides de Salamina-Escritor tr\u00e1gico griego-(480-406 a. C.)"
+  },
+  {
+    "ID":420,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"No es sabio el que sabe muchas cosas, sino el que sabe cosas \u00fatiles.",
+    "AUTOR ":"Esquilo de Eleusis-Poeta tr\u00e1gico griego-(525-456 a. C.)"
+  },
+  {
+    "ID":421,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"Se puede ser un gran sabio y seguir siendo un eterno ni\u00f1o ante los problemas de la vida.",
+    "AUTOR ":"Friedrich Wilhelm Foerster-Pedagogo alem\u00e1n-(1869-1966)"
+  },
+  {
+    "ID":422,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"Hay hombre que se cree sabio cuando su locura dormita.",
+    "AUTOR ":"Denis Diderot-Fil\u00f3sofo y escritor franc\u00e9s-(1713-1784)"
+  },
+  {
+    "ID":423,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"El m\u00e1s sabio es aquel que ni por lo m\u00e1s remoto piensa serlo.",
+    "AUTOR ":"Nicol\u00e1s Boileau-Despr\u00e9aux-Poeta franc\u00e9s-(1636-1711)"
+  },
+  {
+    "ID":424,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"El hombre sabio, incluso cuando calla, dice m\u00e1s que el necio cuando habla.",
+    "AUTOR ":"Thomas Fuller-Cl\u00e9rigo y escritor ingl\u00e9s-(1608-1661)"
+  },
+  {
+    "ID":425,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"El sabio no es el hombre que proporciona las verdaderas respuestas; es el que plantea las verdaderas preguntas.",
+    "AUTOR ":"Claude L\u00e9vi-Strauss-Antrop\u00f3logo belga-(1908-1986)"
+  },
+  {
+    "ID":426,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"Los sabios son los que buscan la sabidur\u00eda; los necios piensan ya haberla encontrado.",
+    "AUTOR ":"Napole\u00f3n Bonaparte-Emperador franc\u00e9s-(1769-1821)"
+  },
+  {
+    "ID":427,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"Consultad a un hombre que no es m\u00e1s que sabio; sabe un mill\u00f3n de cosas m\u00e1s de las que necesit\u00e1is, pero ninguna de las que os son precisas.",
+    "AUTOR ":"Jules Cordier-Autor sat\u00edrico franc\u00e9s-(1802-1859)"
+  },
+  {
+    "ID":428,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"De lo que dice el sabio, no debes dudar; que por obra se pruebe el sabio en su hablar.",
+    "AUTOR ":"Gin\u00e9s P\u00e9rez de Hita-Escritor espa\u00f1ol-(1544-1619)"
+  },
+  {
+    "ID":429,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"Los m\u00e1s doctos no son los m\u00e1s sabios.",
+    "AUTOR ":"Geoffrey Chaucer-Poeta ingl\u00e9s-(1340-1400)"
+  },
+  {
+    "ID":430,
+    "CATEGORIA":"SABIOS",
+    "FRASE":"Los siete sabios de Grecia: Tales de Mileto, Bias de Prieta, P\u00edtaco de Mitilene, Sol\u00f3n de Atenas, Quil\u00f3n de Lacedemonia, Cle\u00f3bulo de Tinde y Periandro de Corinto.",
+    "AUTOR ":"-Expresi\u00f3n griega-"
+  },
+  {
+    "ID":431,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Tres podr\u00edan guardar un secreto, si dos de ellos hubieran muerto.",
+    "AUTOR ":"Benjamin Franklin-Pol\u00edtico y cient\u00edfico estadounidense-(1706-1790)"
+  },
+  {
+    "ID":432,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Dif\u00edcil prueba es guardar un secreto peligroso.",
+    "AUTOR ":"Alonso de Ercilla y Z\u00fa\u00f1iga-Poeta y militar espa\u00f1ol-(1533-1594)"
+  },
+  {
+    "ID":433,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"El hombre guarda el mejor secreto ajeno que el suyo; la mujer, por el contrario, guarda mejor su secreto que el ajeno.",
+    "AUTOR ":"Jean de la Bruy\u00e8re-Escritor moralista franc\u00e9s-(1645-1696)"
+  },
+  {
+    "ID":434,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Toda revelaci\u00f3n de un secreto es culpa de quien lo ha contado.",
+    "AUTOR ":"Jean de la Bruy\u00e8re-Escritor moralista franc\u00e9s-(1645-1696)"
+  },
+  {
+    "ID":435,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Si quieres que tu secreto sea guardado, gu\u00e1rdalo t\u00fa mismo.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca-Fil\u00f3sofo latino-(4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":436,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Cada hombre tiene secretos que \u00e9l mismo ignora.",
+    "AUTOR ":"William Somerset Maugham-Escritor ingl\u00e9s-(1874-1965)"
+  },
+  {
+    "ID":437,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Nadie guarda mejor un secreto que el que lo ignora.",
+    "AUTOR ":"George Farquhar-Dramaturgo irland\u00e9s-(1678-1707)"
+  },
+  {
+    "ID":438,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"A quien dices tu secreto das tu libertad.",
+    "AUTOR ":"Fernando de Rojas-Escritor espa\u00f1ol-(1465-1541)"
+  },
+  {
+    "ID":439,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"\u00bfQu\u00e9 es un hombre? Un mont\u00f3n de secretos.",
+    "AUTOR ":"Andr\u00e9 Maurois (\u00c9mile Herzog)-Escritor franc\u00e9s-"
+  },
+  {
+    "ID":440,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Que de la boca al o\u00eddo est\u00e1 el peligro de un secreto.",
+    "AUTOR ":"-Pedro Calder\u00f3n de la Barca-Dramaturgo espa\u00f1ol"
+  },
+  {
+    "ID":441,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Secretos no son las cosas que no se cuentan, sino las cosas que se cuentan en voz baja y separadamente.",
+    "AUTOR ":"Marcel Pagnol-Escritor franc\u00e9s-(1895-1974)"
+  },
+  {
+    "ID":442,
+    "CATEGORIA":"SECRETOS",
+    "FRASE":"Si revelas tus secretos al viento, no le culpes por revelarlos a los \u00e1rboles.",
+    "AUTOR ":"Jalil Gibran-Escritor liban\u00e9s-(1883-1931)"
+  },
+  {
+    "ID":443,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"En todos los ritos, la sencillez es la mayor extravagancia.",
+    "AUTOR ":"Confucio (Kung-Fu-tze)-Fil\u00f3sofo y estadista chino-(551-479 a. C.)"
+  },
+  {
+    "ID":444,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"El hombre que ha empezado a vivir m\u00e1s seriamente por dentro, empieza a vivir m\u00e1s sencillamente por fuera.",
+    "AUTOR ":"Ernest Millar Hemingway-Novelista estadounidense-(1898-1961)"
+  },
+  {
+    "ID":445,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"En car\u00e1cter, en comportamiento, en estilo, en todas las cosas, la suprema excelencia es la sencillez.",
+    "AUTOR ":"Henry Wadsworth Longfellow-Poeta estadounidense-(1807-1882)"
+  },
+  {
+    "ID":446,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"Todo lo que es verdaderamente sabio es simple y claro.",
+    "AUTOR ":"Maxsim Gorki (Aleksey Maximovich Peshkov)-Novelista ruso-"
+  },
+  {
+    "ID":447,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"La sencillez es una fuerza que vence todas las astucias.",
+    "AUTOR ":"Stendhal (Marie-Henri Beyle)-Escritor franc\u00e9s-(1783-1842)"
+  },
+  {
+    "ID":448,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"come caviar por impulso, que en el que come nueces por principio.",
+    "AUTOR ":"Gilbert Keith Chesterton-Escritor ingl\u00e9s-(1874-1936)"
+  },
+  {
+    "ID":449,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"La \u00fanica simplicidad que vale la pena conservar es la del coraz\u00f3n, la simplicidad que acepta y goza.",
+    "AUTOR ":"Gilbert Keith Chesterton-Escritor ingl\u00e9s-(1874-1936)"
+  },
+  {
+    "ID":450,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"La simplicidad siempre est\u00e1 bien.",
+    "AUTOR ":"Gotthold Ephraim Lessing-Escritor alem\u00e1n-(1729-1781)"
+  },
+  {
+    "ID":451,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"Es curioso observar que casi todos los hombres que valen mucho son de maneras sencillas; y las maneras sencillas son tomadas siempre por indicio de poco valor.",
+    "AUTOR ":"Giacomo Leopardi-Escritor italiano-(1798-1837)"
+  },
+  {
+    "ID":452,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"No hay simplicidad verdadera. S\u00f3lo hay simplificadores.",
+    "AUTOR ":"Le\u00f3n-Paul Fargue-Escritor franc\u00e9s-(1876-1947)"
+  },
+  {
+    "ID":453,
+    "CATEGORIA":"SENCILLEZ",
+    "FRASE":"La mejor fuerza es la simpleza.",
+    "AUTOR ":"-Jean Lebon-Escritor franc\u00e9s"
+  },
+  {
+    "ID":454,
+    "CATEGORIA":"SENSATEZ",
+    "FRASE":"Pocas cosas bastan para hacer feliz a un hombre sensato, pero nada puede satisfacer a un necio: por eso son desdichados casi todos los hombres.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-(1613-1680)"
+  },
+  {
+    "ID":455,
+    "CATEGORIA":"SENSATEZ",
+    "FRASE":"Le es m\u00e1s dif\u00edcil a los ricos adquirir la sensatez, que a los sensatos la riqueza.",
+    "AUTOR ":"Epicteto de Frigia-Fil\u00f3sofo estoico grecolatino-(50-135)"
+  },
+  {
+    "ID":456,
+    "CATEGORIA":"SENSATEZ",
+    "FRASE":"La necedad nos persigue en todas las etapas de la vida. Si alguien parece sensato s\u00f3lo se debe a que sus necedades est\u00e1n en proporci\u00f3n con su edad y su fortuna.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld-Escritor franc\u00e9s-"
+  },
+  {
+    "ID":457,
+    "CATEGORIA":"SENSATEZ",
+    "FRASE":"Los seres m\u00e1s sensibles no son siempre los m\u00e1s sensatos.",
+    "AUTOR ":"Honor\u00e9 de Balzac-Escritor franc\u00e9s-(1799-1850)"
+  },
+  {
+    "ID":458,
+    "CATEGORIA":"SENSATEZ",
+    "FRASE":"Los necios son los hombres sensatos en cuesti\u00f3n de mujeres.",
+    "AUTOR ":"Henry George Bohn-Editor ingl\u00e9s-(1796-1884)"
+  },
+  {
+    "ID":459,
+    "CATEGORIA":"SENSATEZ",
+    "FRASE":"Te admiro por tu sensatez, te odio por tu cobard\u00eda.",
+    "AUTOR ":"S\u00f3focles de Colona-Poeta tr\u00e1gico griego-"
+  },
+  {
+    "ID":460,
+    "CATEGORIA":"SENSATEZ",
+    "FRASE":"Como nace el d\u00eda y desaparece, as\u00ed todo lo humano. Los dioses aman al hombre sensato y odian a los soberbios.",
+    "AUTOR ":"-S\u00f3focles de Colona-Poeta tr\u00e1gico griego"
+  },
+  {
+    "ID":461,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"Podr\u00eda decirse que el sentido com\u00fan es la l\u00ednea m\u00e1s corta entre dos puntos.",
+    "AUTOR ":"Ralph Waldo Emerson-Fil\u00f3sofo y ensayista estadounidense-(1803-1882)"
+  },
+  {
+    "ID":462,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"El sentido com\u00fan es la socializaci\u00f3n de un sistema de defensa contra la turbaci\u00f3n biol\u00f3gica producida por \u00e9l mismo.",
+    "AUTOR ":"Eugenio D\u2019Ors y Rovira-Fil\u00f3sofo y escritor espa\u00f1ol-(1882-1954)"
+  },
+  {
+    "ID":463,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"No hay filosof\u00eda que excuse la falta de sentido com\u00fan, y llegar\u00e1 a ser mal sabio quien comience por ser insensato.",
+    "AUTOR ":"Jaime Luciano Balmes-Sacerdote y fil\u00f3sofo espa\u00f1ol-(1810-1848)"
+  },
+  {
+    "ID":464,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"Dudar de todo es carecer de sentido com\u00fan.",
+    "AUTOR ":"Jaime Luciano Balmes-Sacerdote y fil\u00f3sofo espa\u00f1ol-(1810-1848)"
+  },
+  {
+    "ID":465,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"La ciencia es un mueble magn\u00edfico para el segundo piso, si se pone el sentido com\u00fan en la planta baja.",
+    "AUTOR ":"Oliver Wendell Holmes-Escritor estadounidense-(1809-1894)"
+  },
+  {
+    "ID":466,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"Nada sorprende tanto a los hombres como el sentido com\u00fan y el lenguaje sencillo.",
+    "AUTOR ":"Ralph Waldo Emerson-Fil\u00f3sofo y ensayista estadounidense-"
+  },
+  {
+    "ID":467,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"La peor especie de pedantes entre los hombres instruidos, son los que se hallan dotados de una peque\u00f1a cantidad de sentido com\u00fan.",
+    "AUTOR ":"Joseph Addison-Escritor y pol\u00edtico ingl\u00e9s-(1672-1719)"
+  },
+  {
+    "ID":468,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"Hay gente tan llena de sentido com\u00fan que no le queda el m\u00e1s peque\u00f1o rinc\u00f3n para el sentido propio.",
+    "AUTOR ":"-Miguel de Unamuno y Jugo-Fil\u00f3sofo y escritor espa\u00f1ol"
+  },
+  {
+    "ID":469,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"Es m\u00e1s f\u00e1cil ser genial que tener sentido com\u00fan.",
+    "AUTOR ":"Jacinto Benavente-Dramaturgo espa\u00f1ol-(1866-1954)"
+  },
+  {
+    "ID":470,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"En cuanto nos enamoramos, somos criaturas desprovistas de sentido com\u00fan.",
+    "AUTOR ":"Honor\u00e9 de Balzac-Escritor franc\u00e9s-(1799-1850)"
+  },
+  {
+    "ID":471,
+    "CATEGORIA":"SENTIDO COM\u00daN",
+    "FRASE":"La ciencia no es m\u00e1s que el sentido com\u00fan entrenado y organizado, y s\u00f3lo difieren de este \u00faltimo en lo que difiere un veterano de un nuevo recluta.",
+    "AUTOR ":"-Aldous Leonard Huxley-Escritor ingl\u00e9s"
+  },
+  {
+    "ID":472,
+    "CATEGORIA":"SERIEDAD",
+    "FRASE":"La madurez del hombre es haber vuelto a encontrar la seriedad con que jugaba cuando era ni\u00f1o.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche-Fil\u00f3sofo y poeta alem\u00e1n-(1844-1900)"
+  },
+  {
+    "ID":473,
+    "CATEGORIA":"SOLUCI\u00d3N",
+    "FRASE":"Busca dentro de ti la soluci\u00f3n de todos los problemas, hasta de aquellos que creas m\u00e1s exteriores y materiales. Dentro de ti est\u00e1 siempre el secreto; dentro de ti est\u00e1n todos los secretos.",
+    "AUTOR ":"Amado Nervo (Juan Cris\u00f3stomo Ruiz de Nervo)-Escritor y poeta mexicano-(1870-1919)"
+  },
+  {
+    "ID":474,
+    "CATEGORIA":"SOLUCI\u00d3N",
+    "FRASE":"Una soluci\u00f3n mediocre pero inmediata, vale muchas veces m\u00e1s que una soluci\u00f3n perfecta y tard\u00eda.",
+    "AUTOR ":"Andr\u00e9 Maurois (\u00c9mile Herzog)-Escritor franc\u00e9s-"
+  },
+  {
+    "ID":475,
+    "CATEGORIA":"SOLUCI\u00d3N",
+    "FRASE":"Cuando males desesperados demandan tomar una resoluci\u00f3n r\u00e1pida, la desconfianza es cobard\u00eda y la prudencia locura.",
+    "AUTOR ":"Samuel Johnson-Escritor ingl\u00e9s-(1709-1784)"
+  },
+  {
+    "ID":476,
+    "CATEGORIA":"SOLUCI\u00d3N",
+    "FRASE":"No es cobard\u00eda pesar las decisiones y vacilar cuando se trata de una resoluci\u00f3n azarosa y m\u00e1s expuesta para los dem\u00e1s que para nosotros.",
+    "AUTOR ":"-Silvio Pellico-Poeta italiano"
+  },
+  {
+    "ID":477,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"El mundo se vuelve sue\u00f1o, el sue\u00f1o se vuelve mundo.",
+    "AUTOR ":"Novalis (Friedrich Leopold von Hardenberg)-Poeta, novelista y fil\u00f3sofo alem\u00e1n-(1772-1801)"
+  },
+  {
+    "ID":478,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Lo que so\u00f1aste en tu juventud se convierte en realidad mediante las virtudes viriles; los primeros sue\u00f1os no enga\u00f1an. Pero debes saber que los sue\u00f1os son hechos, y que sin trabajo",
+    "AUTOR ":"-nada lograr\u00e1s. La virtud tiene una cara muy seria.-Ernst Moritz Arndt"
+  },
+  {
+    "ID":479,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Si un artesano estuviese seguro de so\u00f1ar por espacio de doce horas que es rey, creo que ser\u00eda casi tan feliz como un rey que so\u00f1ase doce horas que es artesano.",
+    "AUTOR ":"Blaise Pascal-Matem\u00e1tico, f\u00edsico y fil\u00f3sofo franc\u00e9s-(1623-1662)"
+  },
+  {
+    "ID":480,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Amo a los que sue\u00f1an imposibles.",
+    "AUTOR ":"Johann Wolfgang von Goethe-Escritor y poeta alem\u00e1n-(1749-1832)"
+  },
+  {
+    "ID":481,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Al fin de nuestra vida creo que las \u00fanicas cosas agradables ser\u00e1n las que so\u00f1amos y las que no llegamos a hacer.",
+    "AUTOR ":"Anatole France (Anatole Thibault)-Escritor franc\u00e9s-(1844-1924)"
+  },
+  {
+    "ID":482,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"El sue\u00f1o est\u00e1 lleno de agon\u00edas. Con el sue\u00f1o de cada noche se agoniza cada noche.",
+    "AUTOR ":"Ram\u00f3n G\u00f3mez de la Serna-Escritor sat\u00edrico espa\u00f1ol-(1888-1963)"
+  },
+  {
+    "ID":483,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Los que sue\u00f1an de d\u00eda tienen conciencia de muchas cosas que escapan a los que sue\u00f1an de noche.",
+    "AUTOR ":"Edgar Allan Poe-Escritor y poeta estadounidense-(1809-1849)"
+  },
+  {
+    "ID":484,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"El hombre es el sue\u00f1o de una sombra.",
+    "AUTOR ":"P\u00edndaro de Cinoc\u00e9falos-Poeta l\u00edrico griego-(518-438 a. C.)"
+  },
+  {
+    "ID":485,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Se puede matar al so\u00f1ador, pero no al sue\u00f1o.",
+    "AUTOR ":"Ralph David Abernathy-Pol\u00edtico estadounidense-(1926-1990)"
+  },
+  {
+    "ID":486,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Quien se queda mirando mucho tiempo a los sue\u00f1os termina pareci\u00e9ndose a una sombra.",
+    "AUTOR ":"Andr\u00e9 Malraux-Novelista y pol\u00edtico franc\u00e9s-(1901-1976)"
+  },
+  {
+    "ID":487,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"De todas las invenciones, el sue\u00f1o es la m\u00e1s preciosa.",
+    "AUTOR ":"Heinrich Heine-Poeta y dramaturgo alem\u00e1n-(1797-1856)"
+  },
+  {
+    "ID":488,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Nuestros sue\u00f1os son nuestra \u00fanica vida real.",
+    "AUTOR ":"Federico Fellini-Cineasta italiano-(1920-1993)"
+  },
+  {
+    "ID":489,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Nuestra vida est\u00e1 en gran parte compuesta de sue\u00f1os. Es necesario ligarlos a la acci\u00f3n.",
+    "AUTOR ":"Ana\u00efs Nin-Escritora estadounidense-(1903-1977)"
+  },
+  {
+    "ID":490,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Para poder dormir tranquilamente, no hay opio mejor que la inocencia.",
+    "AUTOR ":"Ram\u00f3n de Campoamor-Poeta espa\u00f1ol-(1817-1901)"
+  },
+  {
+    "ID":491,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"El hombre es un dios cuando sue\u00f1a y un mendigo cuando piensa.",
+    "AUTOR ":"Friedrich H\u00f6lderlin-Poeta alem\u00e1n-(1770-1843)"
+  },
+  {
+    "ID":492,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"nada lograr\u00e1s. La virtud tiene una cara muy seria.",
+    "AUTOR ":"Ernst Moritz Arndt-Poeta alem\u00e1n-(1769-1860)"
+  },
+  {
+    "ID":493,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"La sabidur\u00eda suprema es tener sue\u00f1os bastante grandes para no perderlos de vista mientras se persiguen.",
+    "AUTOR ":"-William Faulkner-Novelista estadounidense"
+  },
+  {
+    "ID":494,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"El sue\u00f1o es un arte po\u00e9tico involuntario.",
+    "AUTOR ":"Immanuel Kant-Fil\u00f3sofo alem\u00e1n-(1724-1804)"
+  },
+  {
+    "ID":495,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"No he conocido m\u00e1s que dos placeres: la pereza y el sue\u00f1o.",
+    "AUTOR ":"James Watt-Ingeniero escoc\u00e9s-(1736-1819)"
+  },
+  {
+    "ID":496,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Si de algo me siento due\u00f1o no es de la vida que vivo, es de mi sue\u00f1o.",
+    "AUTOR ":"Luis Can\u00e9-Poeta argentino-(1897-1957)"
+  },
+  {
+    "ID":497,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"El hombre es un milagro qu\u00edmico que sue\u00f1a.",
+    "AUTOR ":"Alfredo Conde-Escritor espa\u00f1ol--1945"
+  },
+  {
+    "ID":498,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"El sue\u00f1o y la esperanza son los dos calmantes que concede la naturaleza al hombre.",
+    "AUTOR ":"Federico I-Rey de Prusia-(1657-1713)"
+  },
+  {
+    "ID":499,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"La acci\u00f3n es la hermana del sue\u00f1o; yo me cas\u00e9 con la hermana.",
+    "AUTOR ":"-Jean-Arthur Rimbaud-Poeta franc\u00e9s"
+  },
+  {
+    "ID":500,
+    "CATEGORIA":"SUE\u00d1OS",
+    "FRASE":"Es importante que el hombre sue\u00f1e; pero lo es igualmente que pueda re\u00edrse de sus sue\u00f1os.",
+    "AUTOR ":"Lin Yutang-Escritor chino-"
+  }
+]

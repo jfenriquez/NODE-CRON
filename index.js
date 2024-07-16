@@ -1,29 +1,93 @@
-import express from "express";
-import pg from "pg";
+const cron = require("node-cron");
+const data = require("./data/archivo.json");
+const axios = require("axios");
+const express = require("express");
 
-import { config } from "dotenv";
+// Genera un número aleatorio entre 1 y 500
+function getRandomObject() {
+  const min = 1;
+  const max = 500;
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
 
-config();
-// Conectar a la base de datos
-const pool = new pg.Pool({ connectionString: process.env.DATABASE_URL });
+// Función mensaje
+const mensaje = async () => {
+  return JSON.stringify(data[getRandomObject()]);
+};
 
-// Crear una nueva aplicación Express
-const app = express();
+// Enviar un mensaje programado de texto a Whatsapp
+async function sendWhatsapp(message) {
+  const phone = "+573045720744"; // Ingresa tu número de teléfono aquí
+  const apikey = "8571232"; // Ingresa tu clave de API personal recibida en el paso 3
 
-// Definir un puerto para nuestro servidor
-const port = 3000 || process.env.PORT;
+  const url = `https://api.callmebot.com/whatsapp.php?source=php&phone=${phone}&text=${encodeURIComponent(
+    message
+  )}&apikey=${apikey}`;
 
-// Definir una ruta de prueba
-app.get("/", (req, res) => {
-  res.send("¡Hola Mundo!");
+  try {
+    const response = await axios.get(url, {
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+    return response.status;
+  } catch (error) {
+    console.error("Error:", error);
+    return false;
+  }
+}
+
+// Programa una tarea para que se ejecute a las horas especificadas
+const scheduleCronJob = (cronTime) => {
+  cron.schedule(
+    cronTime,
+    async () => {
+      try {
+        const result = await mensaje();
+        await sendWhatsapp(result);
+      } catch (error) {
+        console.error("Error:", error);
+      }
+    },
+    {
+      scheduled: true,
+      timezone: "America/Bogota", // Zona horaria de Colombia
+    }
+  );
+};
+
+// Programar múltiples tareas de cron
+const cronTimes = [
+  "00 06 * * *",
+  "10 08 * * *",
+  "05 08 * * *",
+  "07 08 * * *",
+  "04 09 * * *",
+  "05 09 * * *",
+  "00 17 * * *",
+  "28 17 * * *",
+];
+cronTimes.forEach(scheduleCronJob);
+
+// Mantén el proceso en ejecución
+setInterval(() => {}, 1 << 30);
+
+// CREA UN SERVER CON EXPRESS PARA QUE SEA ACCESIBLE POR LA INTERNET
+const server = express();
+const PORT = 3000;
+
+server.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });
 
-app.get("/ping", async (req, res) => {
-  const result = await pool.query("SELECT NOW()");
-  return res.json(result.rows[0]);
-});
-
-// Iniciar el servidor
-app.listen(port, () => {
-  console.log(`Servidor escuchando en http://localhost:${port}`);
+// CREA UNA RUTA PARA QUE SEA ACCESIBLE POR LA INTERNET
+server.get("/", async (request, response) => {
+  try {
+    const result = await mensaje();
+    await sendWhatsapp(result);
+    response.send(result);
+  } catch (error) {
+    console.error("Error:", error);
+    response.status(500).send("Error al enviar el mensaje");
+  }
 });
